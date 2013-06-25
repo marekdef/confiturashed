@@ -1,551 +1,567 @@
 {
- "result": [
- {
- "event_timeslots": "[{'date': '2013-07-06', 'slot1': (u'09:10', u'10:00')}]",
- "events": [
- {
- "room": "",
- "end_date": "2013-07-06",
- "level": "",
- "track": [
-   "architektura"
- ],
- "start_time": "9:10",
- "title": "Nie ma jednej słusznej drogi - różne podejścia do architektury systemów",
- "abstract": "Ostatnio usłyszałem wypowiedź, która brzmiała mniej więcej tak: \"(...) współczesne autorytety inżynierii oprogramowania: x, y, z używają podejścia do architektury o nazwie A i to jest dobre, tak trzeba robić, to się sprawdza\". Jedynym celem tej prezentacji jest uświadomienie Ci, że to kompletna bzdura. Nie ma jednej słusznej drogi!Podczas prezentacji przedstawię przykłady systemów, których architektury z punktu widzenia jedynej słuszenej drogi A, są kompletnymi herezjami, ale...się sprawdzają. I to sprawdzają się bardzo dobrze: mają założoną wydajność, są bardzo dobrze przygotowane na rozbudowę, tanie w utrzymaniu itd. Acha, i jeszcze w między czasie chciałbym przekazać, że jeśli chesz odpowiedzialnie pełnić rolę architekta, to w przynajmniej na elementarnym poziomie powinieneś posiąść jedną drobną umiejętność: zarządzanie finansami. Zapraszam!",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "11:45",
- "id": "confitura2013/1600/",
- "tags": "JEE java"
- }
- ],
- "event_type": "keynote"
- },
- {
- "event_timeslots": "[{'date': '2013-07-06', 'slot1': (u'10:10', u'11:00'), 'slot2': (u'11:20', u'12:10'), 'slot3': (u'12:20', u'13:10'), 'slot4': (u'14:10', u'15:00'), 'slot5': (u'15:10,', u'16:00'), 'slot6': (u'16:20', u'17:10')}]",
- "events": [
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
- 	"rozwój"
- ],
- "start_time": "10:10",
- "title": "Droga po wiedzę - jak zbudować Continuous Learning Culture",
- "abstract": "Gdy już wejdziemy na ścieżkę Continuous Improvement, to prawdopodobnie tak nam już zostanie, bo to wciąga. Czym innym jest jednak samo-rozwój, a czym innym dzielenie się wiedzą z innymi. Podczas tej prezentacji przekażę moje kilkuletnie doświadczenia z transformacji, jaką przeszliśmy w zespole na drodze do Continuous Learning Culture. Opowiem o tym, co się nam udało, a co nie; gdzie jesteśmy teraz i jak to wpłynęło na proces rekrutacji. Bo radość jest w przekazywaniu wiedzy innym.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "11:00",
- "id": "confitura2013/39/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/134//confitura2013/34"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
- "agile", "zarzadzanie"
- ],
- "start_time": "10:10",
- "prereq": [
- "none"
- ],
- "abstract": "Agile - iteracyjne, nastawione na szybki feedback wytwarzanie aplikacji, bezpośredni kontakt z klientem i niemal nieograniczona możliwość dokonywania zmian. Prowadzenie projektów \"zwinnie\" powinno naturalnie zapewniać wysoki stopień używalności oraz pozytywny \"user experience\". Dlaczego więc mimo doskonałej receptury z ciasta może wyjść przysłowiowy zakalec? W prezentacji postaram się omówić najczęściej pojawiające się zagrożenia projektowe oraz naświetlę obszary wymagające naszej szczególnej uwagi jeżeli realizujemy projekt zwinnymi metodykami. Omówię podstawowe błędy jakie popełniamy rozpoznając potrzeby i wymagania klienta. Podam też kilka przykładów jak zawczasu uniknąć błędów związanych z używalnością i negatywnym odbiorem aplikacji. W finalnej części prezentacji postaram się odpowiedzieć na odwieczne pytanie: \"Jak przekonać klienta do tego aby zapłacił za lepszą używalność swojej aplikacji\"",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "11:00",
- "title": "Agile UX - czyli jak połączyć zwinność z używalnością",
- "id": "confitura2013/60/",
- "tags": "agile",
- "speaker_id": [
- "confitura2013/143//confitura2013/43"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Advanced",
- "track": [
- "agile","zarządzanie"
- ],
- "start_time": "10:10",
- "prereq": [
- "none"
- ],
- "abstract": "Developerze, Programisto, Scrum Masterze, PM-ie! Chcesz dowiedzieć się o doświadczeniach z pracy w projekcie utrzymaniowo-rozwojowym? Pracujesz w projekcie o słabej jakości kodu? Nie macie testów, ale za to niezliczoną ilości błędów? Wasze merge trwają wieki, a klient ciągle zmiania priorytety? Chcesz wiedzieć, jak osiągnąć to, aby projekt wyszedł na prostą, a praca była przyjemniejsza i bardziej satysfakcjonująca? Myślisz o tym, aby klient był bardziej zadowolony? Świetnie trafiłeś! Zapraszam Cię na moją prezentację. Opowiem o mojej rocznej przygodzie z tego typu projektem, realizowanym dla dużego klienta telekomunikacyjnego, w którym pełniłam trochę dziwną rolę pomiędzy Scrum Masterem a Product Ownerem oraz developerem. Będę mówić o tym, jak osiągnęliśmy to, że projekt nienajfajniejszy pod słońcem, w którym mało kto chciał pracować, dzięki wspólnemu zaangażowaniu stał się lepszy a praca przy nim bardziej satysfakcjonująca. Pokażę, jakie pomysły zarówno techniczne jak i organizacyjne zadziałały a co nie wypaliło: Dlaczego u nas nie sprawdził się GIT? Dlaczego testy integracyjne nie dawały nam tego, czego potrzebowaliśmy i jak je zastąpiliśmy kombajnem testów selenium? Jakie praktyki Scrumowe wykorzystywaliśmy i co nam one dały? ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "11:00",
- "title": "Masz już dość bycia szambonurkiem? Czyli o tym, co robić, aby praca w projekcie utrzymaniowym dawała satysfakcję",
- "id": "confitura2013/68/",
- "tags": "zarządzanie",
- "speaker_id": [
- "confitura2013/159//confitura2013/59"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
- "java","cloud","architektura"
- ],
- "start_time": "10:10",
- "title": "Jak znaleźć porządek w chaosie, czyli MapReduce w dobie Internetu",
- "abstract": "Eksplozja danych generowanych w sieci to nie tylko problem dla operatorów sieci komputerowych, ale też nowe wyzwania dla biznesu i atrakcje dla programistów. Jak radzić sobie z przetwarzaniem naprawdę dużych danych? Czy taśmę klejącą, nożyczki i gumę do rzucia możemy zastąpić eleganckimi rozwiązaniami informatycznymi?",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "11:00",
- "id": "confitura2013/46/",
- "tags": "Map, reduce, mapreduce",
- "speaker_id": [
- "confitura2013/126//confitura2013/26"
- ]
- },
- 
- 
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
- "zarządzanie", "jakość"
- ],
- "start_time": "11:20",
- "title": "W jaki sposób zatrzymać najlepszych ? Kluczowe aspekty motywacji zespołów",
- "abstract": "Wyłowienie z rynku i zatrudnienie najlepszych to tylko początek. Podczas prelekcji dowiesz się co motywuje zespoły deweloperskie i co sprawia, że swoją przyszłość wiążą z firmą, w której są zatrudnieni. Omówimy jakich błędów unikać motywując i utrzymując zespoły deweloperskie. Natomiast zespoły deweloperskie lepiej będą mogły rozumieć potrzeby biznesu i komunikować własne. Prezentacja będzie osadzona na kanwie trzech kręgów Zasady Jeża: rozwiajaniu pasji, dążenia to bycia najlepszym, korzyściach materialnych, Odwołując się do każdego z kręgów Zasady Jeża omówimy w jaki sposób odnoszą się one do zespołów deweloperskich z punktu widzenia biznesu oraz samych zespołów.Poruszymy także aspekty komunikacji na linii biznes zespół wytwórczy, które pozwolą na bardziej efektywną komunikację obu środowisk w modelu DevOps",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "12:00",
- "id": "confitura2013/78/",
- "tags": "motywowanie, zarządzanie",
- "speaker_id": [
- "confitura2013/164//confitura2013/64"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
- "testy", "java", "jee"
- ],
- "start_time": "11:20",
- "prereq": [
- "none"
- ],
- "abstract": "Czy często zdarza Ci się pisać olbrzymie klasy usługowe, które mają sprawdzić, czy obiekt, przed dalszą akcją, jest w poprawnym stanie? Takie klasy w środku poutykane są różnego rodzaju if'ami i switchami, biorących pod uwagę np. status obiektu, powiązane byty, datę, nazwę użytkownika i aktualne ułożenie planet. Ile razy metodą Kopiego-Pejsta pisałeś kolejne bliźniacze asercje? Przypomnij sobie jak tworzyłeś kolejne wyjątki. To uczucie, kiedy nagle trzeba wprowadzić translację błędów na inny język i musisz zmienić tylko 743 klasy... Chciałbym przedstawić Ci inny sposób. Sposób, w którym if'y występują rzadko. Tu użyjesz jednego ze standardów JEE 6 - walidatorów. Wszystko to oparte będzie o wzorce projektowe. Zapraszam na moją prelekcję, na której pokażę jak łatwo używać walidacji, jej wyników i jak przepuszczać je przez translację. Wszystko na podstawie przykładów. Omówię przy okazji zastosowane wzorce projektowe i dobre praktyki programistyczne. Prostota implementacji pozwoli na łatwe wdrożenie tej technologii w Twoim projekcie.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "12:00",
- "title": "Przestań pisać asercje, zacznij walidować!",
- "id": "confitura2013/97/",
- "tags": "agile",
- "speaker_id": [
- "confitura2013/175//confitura2013/75"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Advanced",
- "track": [
- "rozwój"
- ],
- "start_time": "11:20",
- "prereq": [
- "none"
- ],
- "abstract": "Razem z zaproszonymi gośćmi zastanowimy się jak wygląda obecnie społeczność programistów Javy w Polsce. Spróbujemy wspólnie odpowiedzieć między innymi na pytania, czy łatwo jest wejść do Javowej społeczności, czy pomaga ona w rozwoju zawodowym, czy łatwo jest dokształcać się online? Co blokuje rozwój społeczności, a co ją wzmacnia? Nie zabraknie również tematu kobiet w programowaniu i ich udziału w społeczności programistów Javy.Żeby uwzględnić różne perspektywy, w dyskusji wezmą udział osoby o różnym doświadczeniu programowania w Javie i o różnym poziomie zaangażowania w działania społeczności. Liczymy również na wasze opinię w trakcie dyskusji.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "12:00",
- "title": "Społeczność programistów Javy: wyzwania, blokady, szanse rozwoju",
- "id": "confitura2013/96/",
- "tags": "",
- "speaker_id": [
- "confitura2013/174//confitura2013/74"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
-	"zarzadzanie","agile"
- ],
- "start_time": "11:20",
- "title": "Co możesz wziąć z Lean Startup w twoim nudnym, przewidywalnym projekcie? ",
- "abstract": "Spojrzenie na zmiany, jakie ruch Lean Startup wywołuje w dziedzinie tworzenia oprogramowania może być bardzo, bardzo pomocne dla wszystkich. Także dla tych z nas, którzy pracują w zupełnie nie-startupowych projektach. Chociaż z drugiej strony - czy aby na pewno w tych naszych projektach jest tak mało innowacyjności i niepewności?... Co by się stało, gdybyś na swojej Kanbanowej tablicy dodał na końcu kolumnę \"Validated\" - zmierzone, czy rzeczywiście warto było robić daną funkcjonalność.Jak zmieniłaby się Twoja motywacja, gdybyś zrozumiał jaki cel biznesowy próbuje osiągnąć Twój klient za pomocą oprogramowania, które dla niego tworzysz? A jak byś się poczuł, gdyby udało Ci się zaproponować prostsze rozwiązanie, które doprowadzi go to tego samego celu?Będę odwoływał się do moich doświadczeń z projektów o klimacie bliższym korporacyjnemu niż starupowemu.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "12:00",
- "id": "confitura2013/70/",
- "tags": "agile, lean, startup",
- "speaker_id": [
- "confitura2013/161//confitura2013/61"
- ]
- },
- 
- 
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
- "testy", "java", "jakość", "język jvm"
- ],
- "start_time": "12:20",
- "title": "Test Driven Traps",
- "abstract": "Czy masz czasem poczucie, że testy Cię spowalniają? Czy masz sytuacje, gdy mała drobna zmiana, działająca w runtime, powoduje 200 nieprzechodzących testów? Czy boisz się zrobić prosty refactoring, bo przekopanie wszystkich testów jest ponad Twoje siły? Czy masz czasem poczucie, że pisanie testów nie ma sensu? Jeśli tak, jest duża szansa, że zabetonowałeś sobie aplikację testami. Test Driven Deveopment jest jak GO: zasady są proste, łatwo zacząć, ale sensowny poziom osiąga się po latach praktyki. Przedstawię typowe błędy, które popełniają początkujący i doświadczeni użytkownicy TDD, oraz sposoby radzenia sobie z nimi i sztuczki, których się nauczyłem w trakcie ośmiu lat korzystania z TDD. Naucz się na błędach innych, albo będziesz je powtarzał. Prezentacja jest skierowana zarówno do początkujących jak i bardziej zaawansowancyh, którzy spotykają się z opisanymi na początku problemami. Przykłady będą z wykorzystaniem Spocka, JUnita, Mockito, Javy i Grooviego. ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "13:10",
- "id": "confitura2013/16/",
- "tags": "testy, jakość, java",
- "speaker_id": [
- "confitura2013/164//confitura2013/64"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
-	"baza danych", "języki jvm"
- ],
- "start_time": "12:20",
- "prereq": [
- "english"
- ],
- "abstract": "W większości pisanych przez nas aplikacji baza danych być musi. A gdyby udać że jej nie ma? Że nasze dane siedzą tak naprawdę w pamięci i po prostu szukamy ich na listach czy w zbiorach? Slick jest dość nową biblioteką w Scali, która próbuje wyjść naprzeciw tym oczekiwaniom. Umożliwia min. pisanie zapytań do bazy, tak jakbyśmy operowali na kolekcjach w pamięci. Zobaczymy jak to robi, do jakiego stopnia się to udaje i zastanowimy się - czy warto? Zakładam że uczestnicy znają przynajmniej pobieżnie składnię Scali.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "13:10",
- "title": "Jak udawać że nie mamy bazy danych",
- "id": "confitura2013/71/",
- "tags": "java",
- "speaker_id": [
- "confitura2013/150//confitura2013/50"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Advanced",
- "track": [
- 	"java","język jvm","java script", "testy"
- ],
- "start_time": "12:20",
- "prereq": [
- "podstawy JS"
- ],
- "abstract": "AngularJS to relatywnie nowy Framework MVC dla języka JavaScript. Co w nim takiego rewolucyjnego? Przede wszystkim przyjemność i prostota pisania w nim. Ale AngularJS to dopiero połowa obrazu, dopełnia go Jasmine - JavaScriptowa biblioteka do BDD, razem tworzą wspaniałą całość. Dzięki nim programowanie w JavaScriptcie to czysta przyjemność (to wcal nie jest oksymoron). ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "13:10",
- "title": "AngularJS i Jasmine - JavaScriptowe małżeństwo w środowisku Javowym.",
- "id": "confitura2013/1/",
- "tags": "zarządzanie",
- "speaker_id": [
- "confitura2013/101//confitura2013/1"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
- "java","cloud","architektura"
- ],
- "start_time": "12:20",
- "title": "Co piszczy w Javie?",
- "abstract": " Jak to się dzieje, że znów w logach widzę PermGen? Czemu wywołanie tego serwisu tak długo trwa? Czemu maszyna co jakiś czas się dziwnie przytyka? Ile pamięci będzie potrzebowała nasza aplikacja przy podwojeniu liczby danych? Co próbuje do Ciebie powiedzieć Twój JVM? Jak go zrozumieć i wyłuskać potrzebne informacje? Podczas prezentacji zobaczymy jakie możliwości otwierają przed nami profilery. Zweryfikujemy czy słusznie dorobiły się opinii “tajemnych instrumentów” i czy faktycznie są takie straszne jak się zwykło o nich mówić. Przeprowadzimy także kilka praktycznych eksperymentów, które pozwolą wyrobić własne poglądy i zbudują podstawy do wykorzystania tego typu narzędzi w przyszłości.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "13:10",
- "id": "confitura2013/13/",
- "tags": "java,jvm",
- "speaker_id": [
- "confitura2013/114//confitura2013/14"
- ]
- },
- 
- 
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Advanced",
- "track": [
- "cloud", "java", "jakość","testy"
- ],
- "start_time": "14:10",
- "title": "Testy funkcjonalne (Selenium) w praktyce",
- "abstract": "Testy jednostkowe są dobre i kluczowe dla zdrowia aplikacji, ale pewnych rzeczy nie da się przetestować bez ogólniejszego spojrzenia, najlepiej okiem klienta przez przeglądarkę. To jest własnie miejsce gdzie doskonale sprawdzą się testy funkcjonalne.Opowiem o tym jak pisać testy funkcjonalne, żeby były utrzymywalne, kiedy najlepiej się sprawdzają, czym różnią się od testów jednostkowych, jak skonfigurować środowisko do takich testów i o tym jak je zintegrować z zewnętrznymi źródłami danych. Powiem również czego robić nie należy i co może być potencjalnym źródłem kłopotów. Prezentacja o testowaniu funckcjonalnym będzie oparta o moje (i nie tylko moje) 3 letnie doświadczenie, które zdobyłem w 2 firmach. Podam praktyczne przykłady testów używających frameworka selenium.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "15:00",
- "id": "confitura2013/62/",
- "tags": "testy, junit, selenium",
- "speaker_id": [
- "confitura2013/155//confitura2013/55"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
-	"android"
- ],
- "start_time": "14:10",
- "prereq": [
- "none"
- ],
- "abstract": "W dobie rozprzestrzeniającej się dystrybucji elektronicznej tworzone przez nas aplikacje szybko stają się łakomym kąskiem dla wszelkiej maści hackerów. Wraz z pojawieniem sie naszej aplikacji na Google Play to czy staniemy się ofiarą piractwa jest już tylko kwestią czasu. I właśnie o tym jak wydłużyć ten czas postaramy się opowiedzieć. Internet pełen jest obecnie rozwiązań typu “one click”, narzędzia takie jak AntiLVL czy LuckyPatcher pozwalają na usunięcie wielu zabezpieczeń w pełni automatycznie, bez jakiejkolwiek specjalistycznej wiedzy. Przedstawimy głowne wady wielu implementacji zabezpieczeń aplikacji Android i dlaczego automatyczne narzędzia tak łatwo sobie z nimi radzą. Przyjrzymy się dostępnym na rynku narzędziom takim jak Proguard czy Dexguard, zobaczymy jak znajomość dostępnych narzędzi pomoże nam w lepszym rozumieniu sposobów zabezpieczeń.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "15:00",
- "title": "Jak walczyć z wiatrakami czyli zabezpieczanie aplikacji Android.",
- "id": "confitura2013/94/",
- "tags": "agile",
- "speaker_id": [
- "confitura2013/172//confitura2013/72"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Advanced",
- "track": [
- "java", "cloud", "bigdata"
- ],
- "start_time": "14:10",
- "prereq": [
- "none"
- ],
- "abstract": "Świat BigData niemal w całości zdominowany jest przez ekosystem Apache Hadoop i rozwiązania bazujące na JVM. Batchowa charakterystyka Hadoopa nie pozwala go użyć bezpośrednio w systemach real-time, ale na szczęście istnieją narzędzia typu Storm, eliminujące tę niedogodność. Dodatkowo pozwalają one użyć w szerszym niż Hadoop kontekście innych technologii do przetwarzania danych, choćby Pythona, Ruby czy PHP. O czym będzie więc ta prezentacja? O strumieniach danych, topologiach ich przetwarzania, sproutach, boltach, skalowalności, odporności na błędy, realnych zastosowaniach i całej reszcie \"burzowej\" otoczki... Nie znasz Storma? Nie szkodzi, Twitter też go nie znał, a uczynił z niego jedno z głównych narzędzi do analizy real-time naszych feedów, wykrywania tematycznych trendów. W trakcie sesji zapoznamy się z architekturą Storma, wykorzystywaną przez niego terminologią, typowymi use-case'ami oraz sposobami dostardczania i przetwarzania napływających danych. Całośc zostanie zobrazowana przykładami w Javie, Pythonie oraz PHP, tak więc jest to propozycja nie tylko dla miłośników JVM-a.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "15:00",
- "title": "Storm, rozproszony system przetwarzania danych realtime",
- "id": "confitura2013/67/",
- "tags": "Apache, BigData,Hadoop",
- "speaker_id": [
- "confitura2013/158//confitura2013/58"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Intermediate",
- "track": [
- "java","cloud","architektura"
- ],
- "start_time": "14:10",
- "title": "Zwinne releasy w samym sercu wielkiej korporacji",
- "abstract": "W przeciągu roku skróciliśmy proces releasu z dwóch miesięcy do niecałego tygodnia. To co kiedyś generowało sporo nerwów, falę niepotrzbnych burzy mailowych i masę frustracji - teraz generuje tylko sporo nerwów ;) Zadowolony klient, szybkie wdrożenia i wiele nowych funkcjonalności a to wszystko tam gdzie nikt z was się tego nie spodziewa - w środku wielkiej korporacji. Jak do tego doszło i jakie technologie nam to umożliwiły - o tym chcemy wam opowiedzieć! To nie będzie jakieś teoretyczne filozofowanie \"jak może być\" - to będzie prezentacja w stylu \"jak już jest!\".",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "15:00",
- "id": "confitura2013/69/",
- "tags": "",
- "speaker_id": [
- "confitura2013/160//confitura2013/60"
- ]
- },
- 
- 
- 
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
- "zarządzanie"
- ],
- "start_time": "15:10",
- "title": "Krótka historia czasu",
- "abstract": "Jaka jest różnica czasu między Warszawą a Sydney? Odpowiedź na to pytanie jest zaskakująco trudna. Równie zaskakującym jest jak wielu programistów tej trudności nie dostrzega. Niby po co? Bo niemal co roku na światło dziennie wypływają zawstydzające błędy w oprogramowaniu, wynikające z niewiedzy bądź lekkomyślnego traktowania... czasu w systemach komputerowych. Podczas tej prezentacji spróbuję pokazać, jak ważne jest świadome operowanie czasem podczas pisania oprogramowania. Nie będziemy (prawie) narzekali na klasę java.util.Date, ale skupimy się na fundamentalnych nieporozumieniach i błędach. Zobaczymy w przykładach fatalne skutki beztroskiego i nieumiejętnego obchodzenia się z czasem. Nauczymy się także jak przechowywać, przesyłać i przetwarzać czas oraz jak testować systemy zależne od czasu (czyli w zasadzie wszystkie). Nie spodziewajcie się eksploracji takiego czy innego API. Skupimy się raczej na zrozumieniu praw rządzących upływem czasu i ich odpowiednim modelowaniem w naszych programach.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "16:00",
- "id": "confitura2013/33/",
- "tags": "zarządzanie, czas",
- "speaker_id": [
- "confitura2013/131//confitura2013/31"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
- 	"java", "baza danych"
- ],
- "start_time": "15:10",
- "title": "Practical Spring Data",
- "abstract": "Spring Data is an 'umbrella' project, developed by SpringSource community, which easies development of applications while working with different database models. From relational databases over \"good old\" JDBC, through O/R mappings with a little bit of help from JPA, to hottest and newest NoSQL databases, which span from key-value, document to graph databases. Spring Data simplifies connectivity with variety of databases, provides unified programming model and patterns.It also frees you from writing boilerplate code by promoting convention over coding and extensive use of runtime generated code. Thanks to this you can focus on building valid and complete domain models with less annoying errors in your data access layer, which results in higher quality code delivered in less time. During this presentation you will get familiar with four different data models, including O/R mappings (JPA 2.0), key-value stores (Redis), document databases (MongoDB) and graph databases (Neo4j). You will understand how Spring Data works undercover, and how different data models fit into modern web applications and how to work \"polyglot persistance\" concept.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "16:00",
- "id": "confitura2013/66/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/157//confitura2013/57"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-	"rozwój", "java"
- ],
- "start_time": "15:10",
- "title": "Java Developer Career Unplugged",
- "abstract": " Czy kiedykolwiek zastanawiałeś się co będziesz robił za 3 lata? Za 5 lat? 10 lat? Czy technologia, którą używasz będzie wtedy w ogóle istnieć? Czy Java to nie jest przypadkiem kolejny Cobol? Co robisz teraz, aby przygotować się na przyszłość? Jakie języki powinien znać software developer? Czy można zostać senior developerem w 2 lata od rozpoczęcia kariery? Kiedy czas jest zmienić pracę? Dlaczego najlepsi inżynierowie wrzucani są w tryby managerskie i ich talent i doświadczenie jest bezpowrotnie tracone? Na te pytania Wojtek spróbuje odpowiedzieć w swój własny, bardzo subiektywny i przewrotny sposób. Prezentacja nawiązuje (jako kontynuacja) do jego prezentacji z Confitura 2012, gdzie jego bezkompromisowe i kontrowersyjne dla niektórych opinie i teorie spolaryzowały mocno środowisko developerów, co doskonale było widać na Twitterze, YouTube czy w blogosferze. ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "16:00",
- "id": "confitura2013/17/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/118//confitura2013/18"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-	"rozwój"
- ],
- "start_time": "15:10",
- "title": "Czego o programowaniu może nauczyć nas Gordon Ramsay?",
- "abstract": "W prezentacji będziemy starać się na chwilę zrzucić mentalne kajdany unikalności, jakie umiemy zakładać sobie w codziennej pracy i spojrzeć na nasz zawód w nieco innym świetle. Razem odpowiemy sobie na pytanie czy możemy uczyć się od innych, o wiele starszych profesji? Czy tylko my musimy zmagać się z terminami releasu ale i wymaganiami jakości? Uncle Bob Martin nie raz porównuje programistę do księgowego, co wyniknie kiedy porównamy go do pracownika restauracji? ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "16:00",
- "id": "confitura2013/39/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/149//confitura2013/49"
- ]
- },
- 
- 
- {
- "room": "1",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-	"narzędzia"
- ],
- "start_time": "16:20",
- "title": "Code reviews with Gerrit",
- "abstract": "Gerrit jest webowym, darmowym systemem wspomogąjacym rewizje kodu źródłowego przy użyciu Gita jako systemu kontrolu rewizji. Poza podstawowymi zadaniami jakie Gerrit spełnia, takimi jak pokazywanie zmian kodu obok siebie w panelach czy dodawanie komentarzy - Gerrit pozwala na dużą a-u-t-o-m-a-t-y-z-a-c-j-ę, przy użyciu komend git jak i wysyłaniu poleceń Gerrit przez ssh, co znacząco skróca proces tworzenia rewizji (= git push) w stosunku do innych rozwiązań.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "17:10",
- "id": "confitura2013/98/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/176//confitura2013/76"
- ]
- },
- {
- "room": "2",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-	"rozwój", "zarzadzanie"
- ],
- "start_time": "16:20",
- "title": "Emancypacja pracowników. Dlaczego spaliliśmy karty zakładowe?",
- "abstract": "Wynaleźlismy samoloty, byliśmy na księżycu, każdy z nas widział panoramę Marsa zrobionej *na miejscu*. Mogło by się wydawać, że co się miało stać, już się stało. Niekoniecznie. Jesteśmy świadkami nowej rewolucji, niekoniecznie mniejszej od Rewolucji Przemysłowej dziewiętnastego wieku. Rola pracownika w firmie się zmienia. Standardowy model wyrobnika z młotkiem, w którego próbował nas wcisnąć system edukacji, w dzisiejszej globalnej wiosce traci rację bytu. Jak może wyglądać nowy typ firmy, w którym pracownik jest czynnikiem twórczym, a nie \"resourcem\"? Jak poradzić sobie z zarządzaniem takim zespołem? Czy tradycyjna rola \"leadera\" ciągle ma sens? Sam tego nie wiem :-). Może razem odpowiemy jakoś na te pytania.",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "17:10",
- "id": "confitura2013/41/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/136//confitura2013/36"
- ]
- },
- {
- "room": "3",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-	"java", "narzędzia"
- ],
- "start_time": "16:20",
- "title": "Algorytmy GC",
- "abstract": "Algorytmy GC możemy podzielić zadając kilka prostych pytań: Jak można wykryć żywe obiekty? Co zrobić z żywymy obiektami przed odśmieceniem? Co zrobić z żywymy obiektami po odśmieceniu? Jak można podzielić stertę? Jak bardzo przewidywalny musi być algorytm? Jeśli chcesz poznać szczegóły działania poszczególnych typów GC, ta prezentacja jest dla Ciebie. ",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "17:10",
- "id": "confitura2013/3/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/103//confitura2013/3"
- ]
- },
- {
- "room": "4",
- "end_date": "2013-07-06",
- "level": "Level 1",
- "track": [
-
- ],
- "start_time": "16:20",
- "title": "",
- "abstract": "",
- "start_date": "2013-07-06",
- "attending": "N",
- "has_streaming": false,
- "end_time": "17:10",
- "id": "confitura2013/39/",
- "tags": "continuous integration",
- "speaker_id": [
- "confitura2013/134//confitura2013/34"
- ]
- }
- 
- ],
- "event_type": "session"
- }
- ],
- "error": "No auth token in request",
- "etag": "\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
+	"result":[
+		{
+			"event_timeslots":"[{'date': '2013-07-06', 'slot1': (u'09:10', u'10:00')}]",
+			"events":[
+				{
+					"room":"",
+					"end_date":"2013-07-06",
+					"level":"",
+					"track":[
+						"architektura"
+					],
+					"start_time":"9:10",
+					"title":"Nie ma jednej słusznej drogi - różne podejścia do architektury systemów",
+					"abstract":"Ostatnio usłyszałem wypowiedź, która brzmiała mniej więcej tak: \"(...) współczesne autorytety inżynierii oprogramowania: x, y, z używają podejścia do architektury o nazwie A i to jest dobre, tak trzeba robić, to się sprawdza\". Jedynym celem tej prezentacji jest uświadomienie Ci, że to kompletna bzdura. Nie ma jednej słusznej drogi!Podczas prezentacji przedstawię przykłady systemów, których architektury z punktu widzenia jedynej słuszenej drogi A, są kompletnymi herezjami, ale...się sprawdzają. I to sprawdzają się bardzo dobrze: mają założoną wydajność, są bardzo dobrze przygotowane na rozbudowę, tanie w utrzymaniu itd. Acha, i jeszcze w między czasie chciałbym przekazać, że jeśli chesz odpowiedzialnie pełnić rolę architekta, to w przynajmniej na elementarnym poziomie powinieneś posiąść jedną drobną umiejętność: zarządzanie finansami. Zapraszam!",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"11:45",
+					"id":"confitura2013/1600/",
+					"tags":"JEE java"
+				}
+			],
+			"event_type":"keynote"
+		},
+		{
+			"event_timeslots":"[{'date': '2013-07-06', 'slot1': (u'10:10', u'11:00'), 'slot2': (u'11:20', u'12:10'), 'slot3': (u'12:20', u'13:10'), 'slot4': (u'14:10', u'15:00'), 'slot5': (u'15:10,', u'16:00'), 'slot6': (u'16:20', u'17:10')}]",
+			"events":[
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"rozwój"
+					],
+					"start_time":"10:10",
+					"title":"Droga po wiedzę - jak zbudować Continuous Learning Culture",
+					"abstract":"Gdy już wejdziemy na ścieżkę Continuous Improvement, to prawdopodobnie tak nam już zostanie, bo to wciąga. Czym innym jest jednak samo-rozwój, a czym innym dzielenie się wiedzą z innymi. Podczas tej prezentacji przekażę moje kilkuletnie doświadczenia z transformacji, jaką przeszliśmy w zespole na drodze do Continuous Learning Culture. Opowiem o tym, co się nam udało, a co nie; gdzie jesteśmy teraz i jak to wpłynęło na proces rekrutacji. Bo radość jest w przekazywaniu wiedzy innym.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"11:00",
+					"id":"confitura2013/39/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/134//confitura2013/34"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"agile",
+						"zarzadzanie"
+					],
+					"start_time":"10:10",
+					"prereq":[
+						"none"
+					],
+					"abstract":"Agile - iteracyjne, nastawione na szybki feedback wytwarzanie aplikacji, bezpośredni kontakt z klientem i niemal nieograniczona możliwość dokonywania zmian. Prowadzenie projektów \"zwinnie\" powinno naturalnie zapewniać wysoki stopień używalności oraz pozytywny \"user experience\". Dlaczego więc mimo doskonałej receptury z ciasta może wyjść przysłowiowy zakalec? W prezentacji postaram się omówić najczęściej pojawiające się zagrożenia projektowe oraz naświetlę obszary wymagające naszej szczególnej uwagi jeżeli realizujemy projekt zwinnymi metodykami. Omówię podstawowe błędy jakie popełniamy rozpoznając potrzeby i wymagania klienta. Podam też kilka przykładów jak zawczasu uniknąć błędów związanych z używalnością i negatywnym odbiorem aplikacji. W finalnej części prezentacji postaram się odpowiedzieć na odwieczne pytanie: \"Jak przekonać klienta do tego aby zapłacił za lepszą używalność swojej aplikacji\"",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"11:00",
+					"title":"Agile UX - czyli jak połączyć zwinność z używalnością",
+					"id":"confitura2013/60/",
+					"tags":"agile",
+					"speaker_id":[
+						"confitura2013/143//confitura2013/43"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Advanced",
+					"track":[
+						"agile",
+						"zarządzanie"
+					],
+					"start_time":"10:10",
+					"prereq":[
+						"none"
+					],
+					"abstract":"Developerze, Programisto, Scrum Masterze, PM-ie! Chcesz dowiedzieć się o doświadczeniach z pracy w projekcie utrzymaniowo-rozwojowym? Pracujesz w projekcie o słabej jakości kodu? Nie macie testów, ale za to niezliczoną ilości błędów? Wasze merge trwają wieki, a klient ciągle zmiania priorytety? Chcesz wiedzieć, jak osiągnąć to, aby projekt wyszedł na prostą, a praca była przyjemniejsza i bardziej satysfakcjonująca? Myślisz o tym, aby klient był bardziej zadowolony? Świetnie trafiłeś! Zapraszam Cię na moją prezentację. Opowiem o mojej rocznej przygodzie z tego typu projektem, realizowanym dla dużego klienta telekomunikacyjnego, w którym pełniłam trochę dziwną rolę pomiędzy Scrum Masterem a Product Ownerem oraz developerem. Będę mówić o tym, jak osiągnęliśmy to, że projekt nienajfajniejszy pod słońcem, w którym mało kto chciał pracować, dzięki wspólnemu zaangażowaniu stał się lepszy a praca przy nim bardziej satysfakcjonująca. Pokażę, jakie pomysły zarówno techniczne jak i organizacyjne zadziałały a co nie wypaliło: Dlaczego u nas nie sprawdził się GIT? Dlaczego testy integracyjne nie dawały nam tego, czego potrzebowaliśmy i jak je zastąpiliśmy kombajnem testów selenium? Jakie praktyki Scrumowe wykorzystywaliśmy i co nam one dały? ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"11:00",
+					"title":"Masz już dość bycia szambonurkiem? Czyli o tym, co robić, aby praca w projekcie utrzymaniowym dawała satysfakcję",
+					"id":"confitura2013/68/",
+					"tags":"zarządzanie",
+					"speaker_id":[
+						"confitura2013/159//confitura2013/59"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"java",
+						"cloud",
+						"architektura"
+					],
+					"start_time":"10:10",
+					"title":"Jak znaleźć porządek w chaosie, czyli MapReduce w dobie Internetu",
+					"abstract":"Eksplozja danych generowanych w sieci to nie tylko problem dla operatorów sieci komputerowych, ale też nowe wyzwania dla biznesu i atrakcje dla programistów. Jak radzić sobie z przetwarzaniem naprawdę dużych danych? Czy taśmę klejącą, nożyczki i gumę do rzucia możemy zastąpić eleganckimi rozwiązaniami informatycznymi?",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"11:00",
+					"id":"confitura2013/46/",
+					"tags":"Map, reduce, mapreduce",
+					"speaker_id":[
+						"confitura2013/126//confitura2013/26"
+					]
+				},
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"zarządzanie",
+						"jakość"
+					],
+					"start_time":"11:20",
+					"title":"W jaki sposób zatrzymać najlepszych ? Kluczowe aspekty motywacji zespołów",
+					"abstract":"Wyłowienie z rynku i zatrudnienie najlepszych to tylko początek. Podczas prelekcji dowiesz się co motywuje zespoły deweloperskie i co sprawia, że swoją przyszłość wiążą z firmą, w której są zatrudnieni. Omówimy jakich błędów unikać motywując i utrzymując zespoły deweloperskie. Natomiast zespoły deweloperskie lepiej będą mogły rozumieć potrzeby biznesu i komunikować własne. Prezentacja będzie osadzona na kanwie trzech kręgów Zasady Jeża: rozwiajaniu pasji, dążenia to bycia najlepszym, korzyściach materialnych, Odwołując się do każdego z kręgów Zasady Jeża omówimy w jaki sposób odnoszą się one do zespołów deweloperskich z punktu widzenia biznesu oraz samych zespołów.Poruszymy także aspekty komunikacji na linii biznes zespół wytwórczy, które pozwolą na bardziej efektywną komunikację obu środowisk w modelu DevOps",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"12:00",
+					"id":"confitura2013/78/",
+					"tags":"motywowanie, zarządzanie",
+					"speaker_id":[
+						"confitura2013/164//confitura2013/64"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"testy",
+						"java",
+						"jee"
+					],
+					"start_time":"11:20",
+					"prereq":[
+						"none"
+					],
+					"abstract":"Czy często zdarza Ci się pisać olbrzymie klasy usługowe, które mają sprawdzić, czy obiekt, przed dalszą akcją, jest w poprawnym stanie? Takie klasy w środku poutykane są różnego rodzaju if'ami i switchami, biorących pod uwagę np. status obiektu, powiązane byty, datę, nazwę użytkownika i aktualne ułożenie planet. Ile razy metodą Kopiego-Pejsta pisałeś kolejne bliźniacze asercje? Przypomnij sobie jak tworzyłeś kolejne wyjątki. To uczucie, kiedy nagle trzeba wprowadzić translację błędów na inny język i musisz zmienić tylko 743 klasy... Chciałbym przedstawić Ci inny sposób. Sposób, w którym if'y występują rzadko. Tu użyjesz jednego ze standardów JEE 6 - walidatorów. Wszystko to oparte będzie o wzorce projektowe. Zapraszam na moją prelekcję, na której pokażę jak łatwo używać walidacji, jej wyników i jak przepuszczać je przez translację. Wszystko na podstawie przykładów. Omówię przy okazji zastosowane wzorce projektowe i dobre praktyki programistyczne. Prostota implementacji pozwoli na łatwe wdrożenie tej technologii w Twoim projekcie.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"12:00",
+					"title":"Przestań pisać asercje, zacznij walidować!",
+					"id":"confitura2013/97/",
+					"tags":"agile",
+					"speaker_id":[
+						"confitura2013/175//confitura2013/75"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Advanced",
+					"track":[
+						"rozwój"
+					],
+					"start_time":"11:20",
+					"prereq":[
+						"none"
+					],
+					"abstract":"Razem z zaproszonymi gośćmi zastanowimy się jak wygląda obecnie społeczność programistów Javy w Polsce. Spróbujemy wspólnie odpowiedzieć między innymi na pytania, czy łatwo jest wejść do Javowej społeczności, czy pomaga ona w rozwoju zawodowym, czy łatwo jest dokształcać się online? Co blokuje rozwój społeczności, a co ją wzmacnia? Nie zabraknie również tematu kobiet w programowaniu i ich udziału w społeczności programistów Javy.Żeby uwzględnić różne perspektywy, w dyskusji wezmą udział osoby o różnym doświadczeniu programowania w Javie i o różnym poziomie zaangażowania w działania społeczności. Liczymy również na wasze opinię w trakcie dyskusji.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"12:00",
+					"title":"Społeczność programistów Javy: wyzwania, blokady, szanse rozwoju",
+					"id":"confitura2013/96/",
+					"tags":"",
+					"speaker_id":[
+						"confitura2013/174//confitura2013/74"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"zarzadzanie",
+						"agile"
+					],
+					"start_time":"11:20",
+					"title":"Co możesz wziąć z Lean Startup w twoim nudnym, przewidywalnym projekcie? ",
+					"abstract":"Spojrzenie na zmiany, jakie ruch Lean Startup wywołuje w dziedzinie tworzenia oprogramowania może być bardzo, bardzo pomocne dla wszystkich. Także dla tych z nas, którzy pracują w zupełnie nie-startupowych projektach. Chociaż z drugiej strony - czy aby na pewno w tych naszych projektach jest tak mało innowacyjności i niepewności?... Co by się stało, gdybyś na swojej Kanbanowej tablicy dodał na końcu kolumnę \"Validated\" - zmierzone, czy rzeczywiście warto było robić daną funkcjonalność.Jak zmieniłaby się Twoja motywacja, gdybyś zrozumiał jaki cel biznesowy próbuje osiągnąć Twój klient za pomocą oprogramowania, które dla niego tworzysz? A jak byś się poczuł, gdyby udało Ci się zaproponować prostsze rozwiązanie, które doprowadzi go to tego samego celu?Będę odwoływał się do moich doświadczeń z projektów o klimacie bliższym korporacyjnemu niż starupowemu.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"12:00",
+					"id":"confitura2013/70/",
+					"tags":"agile, lean, startup",
+					"speaker_id":[
+						"confitura2013/161//confitura2013/61"
+					]
+				},
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"testy",
+						"java",
+						"jakość",
+						"język jvm"
+					],
+					"start_time":"12:20",
+					"title":"Test Driven Traps",
+					"abstract":"Czy masz czasem poczucie, że testy Cię spowalniają? Czy masz sytuacje, gdy mała drobna zmiana, działająca w runtime, powoduje 200 nieprzechodzących testów? Czy boisz się zrobić prosty refactoring, bo przekopanie wszystkich testów jest ponad Twoje siły? Czy masz czasem poczucie, że pisanie testów nie ma sensu? Jeśli tak, jest duża szansa, że zabetonowałeś sobie aplikację testami. Test Driven Deveopment jest jak GO: zasady są proste, łatwo zacząć, ale sensowny poziom osiąga się po latach praktyki. Przedstawię typowe błędy, które popełniają początkujący i doświadczeni użytkownicy TDD, oraz sposoby radzenia sobie z nimi i sztuczki, których się nauczyłem w trakcie ośmiu lat korzystania z TDD. Naucz się na błędach innych, albo będziesz je powtarzał. Prezentacja jest skierowana zarówno do początkujących jak i bardziej zaawansowancyh, którzy spotykają się z opisanymi na początku problemami. Przykłady będą z wykorzystaniem Spocka, JUnita, Mockito, Javy i Grooviego. ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"13:10",
+					"id":"confitura2013/16/",
+					"tags":"testy, jakość, java",
+					"speaker_id":[
+						"confitura2013/164//confitura2013/64"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"baza danych",
+						"języki jvm"
+					],
+					"start_time":"12:20",
+					"prereq":[
+						"english"
+					],
+					"abstract":"W większości pisanych przez nas aplikacji baza danych być musi. A gdyby udać że jej nie ma? Że nasze dane siedzą tak naprawdę w pamięci i po prostu szukamy ich na listach czy w zbiorach? Slick jest dość nową biblioteką w Scali, która próbuje wyjść naprzeciw tym oczekiwaniom. Umożliwia min. pisanie zapytań do bazy, tak jakbyśmy operowali na kolekcjach w pamięci. Zobaczymy jak to robi, do jakiego stopnia się to udaje i zastanowimy się - czy warto? Zakładam że uczestnicy znają przynajmniej pobieżnie składnię Scali.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"13:10",
+					"title":"Jak udawać że nie mamy bazy danych",
+					"id":"confitura2013/71/",
+					"tags":"java",
+					"speaker_id":[
+						"confitura2013/150//confitura2013/50"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Advanced",
+					"track":[
+						"java",
+						"język jvm",
+						"java script",
+						"testy"
+					],
+					"start_time":"12:20",
+					"prereq":[
+						"podstawy JS"
+					],
+					"abstract":"AngularJS to relatywnie nowy Framework MVC dla języka JavaScript. Co w nim takiego rewolucyjnego? Przede wszystkim przyjemność i prostota pisania w nim. Ale AngularJS to dopiero połowa obrazu, dopełnia go Jasmine - JavaScriptowa biblioteka do BDD, razem tworzą wspaniałą całość. Dzięki nim programowanie w JavaScriptcie to czysta przyjemność (to wcal nie jest oksymoron). ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"13:10",
+					"title":"AngularJS i Jasmine - JavaScriptowe małżeństwo w środowisku Javowym.",
+					"id":"confitura2013/1/",
+					"tags":"zarządzanie",
+					"speaker_id":[
+						"confitura2013/101//confitura2013/1"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"java",
+						"cloud",
+						"architektura"
+					],
+					"start_time":"12:20",
+					"title":"Co piszczy w Javie?",
+					"abstract":" Jak to się dzieje, że znów w logach widzę PermGen? Czemu wywołanie tego serwisu tak długo trwa? Czemu maszyna co jakiś czas się dziwnie przytyka? Ile pamięci będzie potrzebowała nasza aplikacja przy podwojeniu liczby danych? Co próbuje do Ciebie powiedzieć Twój JVM? Jak go zrozumieć i wyłuskać potrzebne informacje? Podczas prezentacji zobaczymy jakie możliwości otwierają przed nami profilery. Zweryfikujemy czy słusznie dorobiły się opinii “tajemnych instrumentów” i czy faktycznie są takie straszne jak się zwykło o nich mówić. Przeprowadzimy także kilka praktycznych eksperymentów, które pozwolą wyrobić własne poglądy i zbudują podstawy do wykorzystania tego typu narzędzi w przyszłości.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"13:10",
+					"id":"confitura2013/13/",
+					"tags":"java,jvm",
+					"speaker_id":[
+						"confitura2013/114//confitura2013/14"
+					]
+				},
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Advanced",
+					"track":[
+						"cloud",
+						"java",
+						"jakość",
+						"testy"
+					],
+					"start_time":"14:10",
+					"title":"Testy funkcjonalne (Selenium) w praktyce",
+					"abstract":"Testy jednostkowe są dobre i kluczowe dla zdrowia aplikacji, ale pewnych rzeczy nie da się przetestować bez ogólniejszego spojrzenia, najlepiej okiem klienta przez przeglądarkę. To jest własnie miejsce gdzie doskonale sprawdzą się testy funkcjonalne.Opowiem o tym jak pisać testy funkcjonalne, żeby były utrzymywalne, kiedy najlepiej się sprawdzają, czym różnią się od testów jednostkowych, jak skonfigurować środowisko do takich testów i o tym jak je zintegrować z zewnętrznymi źródłami danych. Powiem również czego robić nie należy i co może być potencjalnym źródłem kłopotów. Prezentacja o testowaniu funckcjonalnym będzie oparta o moje (i nie tylko moje) 3 letnie doświadczenie, które zdobyłem w 2 firmach. Podam praktyczne przykłady testów używających frameworka selenium.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"15:00",
+					"id":"confitura2013/62/",
+					"tags":"testy, junit, selenium",
+					"speaker_id":[
+						"confitura2013/155//confitura2013/55"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"android"
+					],
+					"start_time":"14:10",
+					"prereq":[
+						"none"
+					],
+					"abstract":"W dobie rozprzestrzeniającej się dystrybucji elektronicznej tworzone przez nas aplikacje szybko stają się łakomym kąskiem dla wszelkiej maści hackerów. Wraz z pojawieniem sie naszej aplikacji na Google Play to czy staniemy się ofiarą piractwa jest już tylko kwestią czasu. I właśnie o tym jak wydłużyć ten czas postaramy się opowiedzieć. Internet pełen jest obecnie rozwiązań typu “one click”, narzędzia takie jak AntiLVL czy LuckyPatcher pozwalają na usunięcie wielu zabezpieczeń w pełni automatycznie, bez jakiejkolwiek specjalistycznej wiedzy. Przedstawimy głowne wady wielu implementacji zabezpieczeń aplikacji Android i dlaczego automatyczne narzędzia tak łatwo sobie z nimi radzą. Przyjrzymy się dostępnym na rynku narzędziom takim jak Proguard czy Dexguard, zobaczymy jak znajomość dostępnych narzędzi pomoże nam w lepszym rozumieniu sposobów zabezpieczeń.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"15:00",
+					"title":"Jak walczyć z wiatrakami czyli zabezpieczanie aplikacji Android.",
+					"id":"confitura2013/94/",
+					"tags":"agile",
+					"speaker_id":[
+						"confitura2013/172//confitura2013/72"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Advanced",
+					"track":[
+						"java",
+						"cloud",
+						"bigdata"
+					],
+					"start_time":"14:10",
+					"prereq":[
+						"none"
+					],
+					"abstract":"Świat BigData niemal w całości zdominowany jest przez ekosystem Apache Hadoop i rozwiązania bazujące na JVM. Batchowa charakterystyka Hadoopa nie pozwala go użyć bezpośrednio w systemach real-time, ale na szczęście istnieją narzędzia typu Storm, eliminujące tę niedogodność. Dodatkowo pozwalają one użyć w szerszym niż Hadoop kontekście innych technologii do przetwarzania danych, choćby Pythona, Ruby czy PHP. O czym będzie więc ta prezentacja? O strumieniach danych, topologiach ich przetwarzania, sproutach, boltach, skalowalności, odporności na błędy, realnych zastosowaniach i całej reszcie \"burzowej\" otoczki... Nie znasz Storma? Nie szkodzi, Twitter też go nie znał, a uczynił z niego jedno z głównych narzędzi do analizy real-time naszych feedów, wykrywania tematycznych trendów. W trakcie sesji zapoznamy się z architekturą Storma, wykorzystywaną przez niego terminologią, typowymi use-case'ami oraz sposobami dostardczania i przetwarzania napływających danych. Całośc zostanie zobrazowana przykładami w Javie, Pythonie oraz PHP, tak więc jest to propozycja nie tylko dla miłośników JVM-a.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"15:00",
+					"title":"Storm, rozproszony system przetwarzania danych realtime",
+					"id":"confitura2013/67/",
+					"tags":"Apache, BigData,Hadoop",
+					"speaker_id":[
+						"confitura2013/158//confitura2013/58"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Intermediate",
+					"track":[
+						"java",
+						"cloud",
+						"architektura"
+					],
+					"start_time":"14:10",
+					"title":"Zwinne releasy w samym sercu wielkiej korporacji",
+					"abstract":"W przeciągu roku skróciliśmy proces releasu z dwóch miesięcy do niecałego tygodnia. To co kiedyś generowało sporo nerwów, falę niepotrzbnych burzy mailowych i masę frustracji - teraz generuje tylko sporo nerwów ;) Zadowolony klient, szybkie wdrożenia i wiele nowych funkcjonalności a to wszystko tam gdzie nikt z was się tego nie spodziewa - w środku wielkiej korporacji. Jak do tego doszło i jakie technologie nam to umożliwiły - o tym chcemy wam opowiedzieć! To nie będzie jakieś teoretyczne filozofowanie \"jak może być\" - to będzie prezentacja w stylu \"jak już jest!\".",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"15:00",
+					"id":"confitura2013/69/",
+					"tags":"",
+					"speaker_id":[
+						"confitura2013/160//confitura2013/60"
+					]
+				},
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"zarządzanie"
+					],
+					"start_time":"15:10",
+					"title":"Krótka historia czasu",
+					"abstract":"Jaka jest różnica czasu między Warszawą a Sydney? Odpowiedź na to pytanie jest zaskakująco trudna. Równie zaskakującym jest jak wielu programistów tej trudności nie dostrzega. Niby po co? Bo niemal co roku na światło dziennie wypływają zawstydzające błędy w oprogramowaniu, wynikające z niewiedzy bądź lekkomyślnego traktowania... czasu w systemach komputerowych. Podczas tej prezentacji spróbuję pokazać, jak ważne jest świadome operowanie czasem podczas pisania oprogramowania. Nie będziemy (prawie) narzekali na klasę java.util.Date, ale skupimy się na fundamentalnych nieporozumieniach i błędach. Zobaczymy w przykładach fatalne skutki beztroskiego i nieumiejętnego obchodzenia się z czasem. Nauczymy się także jak przechowywać, przesyłać i przetwarzać czas oraz jak testować systemy zależne od czasu (czyli w zasadzie wszystkie). Nie spodziewajcie się eksploracji takiego czy innego API. Skupimy się raczej na zrozumieniu praw rządzących upływem czasu i ich odpowiednim modelowaniem w naszych programach.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"16:00",
+					"id":"confitura2013/33/",
+					"tags":"zarządzanie, czas",
+					"speaker_id":[
+						"confitura2013/131//confitura2013/31"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"java",
+						"baza danych"
+					],
+					"start_time":"15:10",
+					"title":"Practical Spring Data",
+					"abstract":"Spring Data is an 'umbrella' project, developed by SpringSource community, which easies development of applications while working with different database models. From relational databases over \"good old\" JDBC, through O/R mappings with a little bit of help from JPA, to hottest and newest NoSQL databases, which span from key-value, document to graph databases. Spring Data simplifies connectivity with variety of databases, provides unified programming model and patterns.It also frees you from writing boilerplate code by promoting convention over coding and extensive use of runtime generated code. Thanks to this you can focus on building valid and complete domain models with less annoying errors in your data access layer, which results in higher quality code delivered in less time. During this presentation you will get familiar with four different data models, including O/R mappings (JPA 2.0), key-value stores (Redis), document databases (MongoDB) and graph databases (Neo4j). You will understand how Spring Data works undercover, and how different data models fit into modern web applications and how to work \"polyglot persistance\" concept.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"16:00",
+					"id":"confitura2013/66/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/157//confitura2013/57"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"rozwój",
+						"java"
+					],
+					"start_time":"15:10",
+					"title":"Java Developer Career Unplugged",
+					"abstract":" Czy kiedykolwiek zastanawiałeś się co będziesz robił za 3 lata? Za 5 lat? 10 lat? Czy technologia, którą używasz będzie wtedy w ogóle istnieć? Czy Java to nie jest przypadkiem kolejny Cobol? Co robisz teraz, aby przygotować się na przyszłość? Jakie języki powinien znać software developer? Czy można zostać senior developerem w 2 lata od rozpoczęcia kariery? Kiedy czas jest zmienić pracę? Dlaczego najlepsi inżynierowie wrzucani są w tryby managerskie i ich talent i doświadczenie jest bezpowrotnie tracone? Na te pytania Wojtek spróbuje odpowiedzieć w swój własny, bardzo subiektywny i przewrotny sposób. Prezentacja nawiązuje (jako kontynuacja) do jego prezentacji z Confitura 2012, gdzie jego bezkompromisowe i kontrowersyjne dla niektórych opinie i teorie spolaryzowały mocno środowisko developerów, co doskonale było widać na Twitterze, YouTube czy w blogosferze. ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"16:00",
+					"id":"confitura2013/17/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/118//confitura2013/18"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"rozwój"
+					],
+					"start_time":"15:10",
+					"title":"Czego o programowaniu może nauczyć nas Gordon Ramsay?",
+					"abstract":"W prezentacji będziemy starać się na chwilę zrzucić mentalne kajdany unikalności, jakie umiemy zakładać sobie w codziennej pracy i spojrzeć na nasz zawód w nieco innym świetle. Razem odpowiemy sobie na pytanie czy możemy uczyć się od innych, o wiele starszych profesji? Czy tylko my musimy zmagać się z terminami releasu ale i wymaganiami jakości? Uncle Bob Martin nie raz porównuje programistę do księgowego, co wyniknie kiedy porównamy go do pracownika restauracji? ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"16:00",
+					"id":"confitura2013/39/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/149//confitura2013/49"
+					]
+				},
+				{
+					"room":"1",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"narzędzia"
+					],
+					"start_time":"16:20",
+					"title":"Code reviews with Gerrit",
+					"abstract":"Gerrit jest webowym, darmowym systemem wspomogąjacym rewizje kodu źródłowego przy użyciu Gita jako systemu kontrolu rewizji. Poza podstawowymi zadaniami jakie Gerrit spełnia, takimi jak pokazywanie zmian kodu obok siebie w panelach czy dodawanie komentarzy - Gerrit pozwala na dużą a-u-t-o-m-a-t-y-z-a-c-j-ę, przy użyciu komend git jak i wysyłaniu poleceń Gerrit przez ssh, co znacząco skróca proces tworzenia rewizji (= git push) w stosunku do innych rozwiązań.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"17:10",
+					"id":"confitura2013/98/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/176//confitura2013/76"
+					]
+				},
+				{
+					"room":"2",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"rozwój",
+						"zarzadzanie"
+					],
+					"start_time":"16:20",
+					"title":"Emancypacja pracowników. Dlaczego spaliliśmy karty zakładowe?",
+					"abstract":"Wynaleźlismy samoloty, byliśmy na księżycu, każdy z nas widział panoramę Marsa zrobionej *na miejscu*. Mogło by się wydawać, że co się miało stać, już się stało. Niekoniecznie. Jesteśmy świadkami nowej rewolucji, niekoniecznie mniejszej od Rewolucji Przemysłowej dziewiętnastego wieku. Rola pracownika w firmie się zmienia. Standardowy model wyrobnika z młotkiem, w którego próbował nas wcisnąć system edukacji, w dzisiejszej globalnej wiosce traci rację bytu. Jak może wyglądać nowy typ firmy, w którym pracownik jest czynnikiem twórczym, a nie \"resourcem\"? Jak poradzić sobie z zarządzaniem takim zespołem? Czy tradycyjna rola \"leadera\" ciągle ma sens? Sam tego nie wiem :-). Może razem odpowiemy jakoś na te pytania.",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"17:10",
+					"id":"confitura2013/41/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/136//confitura2013/36"
+					]
+				},
+				{
+					"room":"3",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						"java",
+						"narzędzia"
+					],
+					"start_time":"16:20",
+					"title":"Algorytmy GC",
+					"abstract":"Algorytmy GC możemy podzielić zadając kilka prostych pytań: Jak można wykryć żywe obiekty? Co zrobić z żywymy obiektami przed odśmieceniem? Co zrobić z żywymy obiektami po odśmieceniu? Jak można podzielić stertę? Jak bardzo przewidywalny musi być algorytm? Jeśli chcesz poznać szczegóły działania poszczególnych typów GC, ta prezentacja jest dla Ciebie. ",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"17:10",
+					"id":"confitura2013/3/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/103//confitura2013/3"
+					]
+				},
+				{
+					"room":"4",
+					"end_date":"2013-07-06",
+					"level":"Level 1",
+					"track":[
+						
+					],
+					"start_time":"16:20",
+					"title":"",
+					"abstract":"",
+					"start_date":"2013-07-06",
+					"attending":"N",
+					"has_streaming":false,
+					"end_time":"17:10",
+					"id":"confitura2013/39/",
+					"tags":"continuous integration",
+					"speaker_id":[
+						"confitura2013/134//confitura2013/34"
+					]
+				}
+			],
+			"event_type":"session"
+		}
+	],
+	"error":"No auth token in request",
+	"etag":"\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
 }
