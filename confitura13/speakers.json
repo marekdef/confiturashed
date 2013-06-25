@@ -1,0 +1,334 @@
+{
+	"devsite_speakers":[
+		{
+			"bio":"Organizator konferencji Javarsovia i Confitura od drugiej edycji (2008r) Pragmatyk z przekonania i (mam nadzieję) działania. Zawodowo - lead java developer (lub coś w tym rodziaju) w Luxemburskiej firmie MACH. Na codzień skupiam się na pisaniu testów, których efektem ubocznym jest kod aplikacji.",
+			"first_name":"Michał",
+			"last_name":"Margiel",
+			"user_id":"confitura2013/1",
+			"plusone_url":"https://plus.google.com/111395306401981598462/about",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/1.jpg",
+			"display_name":"Michał Margiel",
+			"speaker_id":"confitura2013/101//confitura2013/1"
+		},
+		{
+			"bio":"Michał jest programistą skupiającym się na technologiach opartych o JVM. Jego głównymi obszarami zainteresowań są: algorytmy GC, współbieżność, algorytmy wolne od blokad, kompilatory typu JIT. Tworząc oprogramowanie pamięta jak zbudowane są współczesne procesowy, pamięć fizyczne oraz system operacyjny. Nie ogranicza się tylko do poziomu bytecode'u lecz obserwuje także wewnętrzne komponenty OpenJDK oraz kod maszynowy przez nie generowany.",
+			"first_name":"Michał",
+			"last_name":"Warecki",
+			"display_name":"Michał Warecki",
+			"plusone_url":"https://plus.google.com/107606703558161507946/about",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/3.jpg",
+			"user_id":"confitura2013/3",
+			"speaker_id":"confitura2013/103//confitura2013/3"
+		},
+		{
+			"bio":"Ktoś mi kiedyś powiedział, że nasze słabości są najwartościowszą rzeczą, ponieważ przepracowane mogą stanowić źródło, z którego można czerpać to, co chcemy dać innym. Uwierzyłem w to i zająłem się moimi dwoma największymi: współpracą z biznesem oraz zarządzaniem czasem. Od 2004 roku, w którym rozpocząłem tę przygodę, poznałem wiele metod służących do analizy i ilościowego wyrażania tych aspektów efektywności programisty. Pozwoliło mi to najpierw na zreorganizowanie swojego sposobu pracy, a następnie doradzanie i uczenie innych programistów jak zrobić to samo. Część swojej pracy ująłem w książce 'Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce?”. Ponadto pracując z zespołami programistycznymi jako konsultant i coach wiele uwagi poświęcam procesom takim jak rozwój architektury, strategiczna refaktoryzacja, użyteczne dokumentowanie architektury. Największym moim odkryciem ostatniego czasu jest, że „gadżety” o chwytliwych nazwach „*Patterns*” oraz „*-Driven* niczego w naszej pracy nie zmienią, jeśli brakuje kilku absolutnie podstawowych umiejętności. Z tego względu te bazowe umiejętności są „napędem” stale pojawiającym się w prowadzonych przeze mnie szkoleniach takich jak Techniki pracy z kodem czy Wzorce projektowe i refaktoryzacja do wzorców'",
+			"first_name":"Michał",
+			"last_name":"Bartyzel",
+			"display_name":"Michał Bartyzel",
+			"plusone_url":"https://plus.google.com/112333815159468020407/",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/9.jpg",
+			"user_id":"confitura2013/9",
+			"speaker_id":"confitura2013/109//confitura2013/9"
+		},
+		{
+			"bio":"Entuzjasta OpenSource oraz wieloletni użytkownik Linuxa z szerokim wachlarzem zainteresowań zaczynając od Java i Git przez nowe języki dla JVM, programowanie funkcyjne po produktywność programisty. Commiter w projekcie EGit wysła również patche do projektów JGit i Gerrit. W 2011 roku został wyróżniony mianem Top Eclipse Contributor. W wolnym czasie wspiera projekty OpenSource pisze bloga, biega, jeździ motocyklem oraz współorganizuje konferencje DevCrowd w Szczecinie. Aktualnie pracuje w CollabNet w Pocztamie rozwijając integrajcę TeamForge z Gerrit Code Review.",
+			"first_name":"Dariusz",
+			"last_name":"Łuksza",
+			"display_name":"Dariusz Łuksza",
+			"plusone_url":"https://plus.google.com/u/0/109385828142935151413",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/11.jpg",
+			"user_id":"confitura2013/11",
+			"speaker_id":"confitura2013/111//confitura2013/11"
+		},
+		{
+			"bio":"Zawodowo związany z PayU z ramienia którego odpowiadam za ogniwo rozwojowe w Warszawie. Prywatnie czuję się mocno przywiązany do pakietu java.util.concurrent i klasy sun.misc.Unsafe. Poza tym pasjonują mnie lekkie aplikacje, w których stosunek kodu do dostarczanej funkcjonalności jest jak najmniejszy :) ",
+			"first_name":"Jakub",
+			"last_name":"Kubryński",
+			"display_name":"Jakub Kubryński",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/14.jpg",
+			"user_id":"confitura2013/14",
+			"speaker_id":"confitura2013/114//confitura2013/14"
+		},
+		{
+			"bio":"Jakub Nabrdalik is a Solution Architect at TouK, which means completely nothing except that he jumps into all the roles in software development: from analyzing requirements, leading teams, to his favorite: programming. As he does almost everything in the process of software development, he is equally bad at everything. Because he's not too smart and he has hard times understanding anything complex, he prides himself on writing simple, readable and maintainable code, something other folks call \"craftsmanship\" (not to be mistaken with \"crapmanship\"). You can meet him at Agile Warsaw, Warsaw Java User Group or find his blog at blog.solidcraft.eu. Jakub started commercial programming about 2003 and does TDD since 2005 in several different languages including Groovy, Java, C# and PHP.",
+			"first_name":"Jakub",
+			"last_name":"Nabrdalik",
+			"display_name":"Jakub Nabrdalik",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/16.jpg",
+			"user_id":"confitura2013/16",
+			"speaker_id":"confitura2013/116//confitura2013/16"
+		},
+		{
+			"bio":"Wojciech Seliga zajmuje się różnymi aspektami software developmentu: propagowaniem metodologii agile, zarządzaniem projektami i zespołami software’owymi, zatrudnianiem najlepszych specjalistów z branży, rozwojem biznesowym, mentoringiem i szkoleniami dla developerów, a nocą nadal kodowaniem. Obecnie Wojciech pracuje z 30-tką fantastycznych ludzi w firmie Spartez, którą współzałożył w 2007 roku, nad narzędziami z ekosystemu Atlassiana, takimi jak JIRA, Bamboo, Crucible, FishEye, Agile Cards czy ScreenSnipe. Wojciech pokazuje się dosyć często na różnych konferencjach w kraju, jak i za granicą (np. Devoxx, 33rd Degree, GeeCON, Confitura, Agile, Atlassian Summit, AtlasCamp).",
+			"first_name":"Wojciech",
+			"last_name":"Seliga",
+			"display_name":"Wojciech Seliga",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/18.jpg",
+			"user_id":"confitura2013/18",
+			"speaker_id":"confitura2013/118//confitura2013/18"
+		},
+		{
+			"bio":"Inżynier ds. oprogramowania, Google Monika jest programistką w zespole Google Offers w Londynie. W swojej pracy zajmuje się rozwojem infrastruktury i implementacją usług backendowych. Zanim zaczeła pracę w Google w roku 2011, pracowała w firmach AOL i IBM.  Z wyróżnieniem ukończyła informatykę na wydziale Elektrotechniki, Automatyki, Informatyki i Elektroniki na Akademii Górniczo-Hutniczej im. Stanisława Staszica w Krakowie.",
+			"first_name":"Monika",
+			"last_name":"Nawrot",
+			"display_name":"Monika Nawrot",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/26.jpg",
+			"user_id":"confitura2013/26",
+			"speaker_id":"confitura2013/126//confitura2013/26"
+		},
+		{
+			"bio":"Software developer with agile background. In JVM ecosystem experienced in Java/Java EE projects, recently coding in Scala. Some time ago fell in love with rich browser-based JavaScript client apps. Passionate about web stuff in general, test-infected, crafts his code with TDD, cares about simple design, code quality and readability. Agile proponent who believes that agile software development is not about “scrum” and “daily stand-ups” buzzwords. Involved in local Łódź JUG initiatives.",
+			"first_name":"Michał",
+			"last_name":"Ostruszka",
+			"display_name":"Michał Ostruszka",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/28.jpg",
+			"user_id":"confitura2013/28",
+			"speaker_id":"confitura2013/128//confitura2013/28"
+		},
+		{
+			"bio":"Programujący architekt oprogramowania i trener w firmie Bottega IT Solutions, specjalizujący się w technologiach Java i efektywnym wykorzystaniu zdobyczy współczesnej inżynierii oprogramowania. Do jego zainteresowań należy szeroko pojęta inżynieria oprogramowania: architektury wysokowydajnych systemów (w szczególności CqRS), modelowanie (w szczególności DDD), wzorce, zwinne procesy wytwórcze. Hobbystycznie interesuje się psychologią i kognitywistyką. Entuzjasta Software Craftsmanship. W wolnych chwilach działa w community jako: prezes Stowarzyszenia Software Engineering Professionals Polska, lider lubelskiego Java User Group, publicysta w prasie branżowej i blogger.",
+			"first_name":"Sławomir",
+			"last_name":"Sobótka",
+			"display_name":"Sławomir Sobótka",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/29.jpg",
+			"user_id":"confitura2013/29",
+			"speaker_id":"confitura2013/129//confitura2013/29"
+		},
+		{
+			"bio":"Na programowaniu spędził już połowę życia, od 6 lat zawodowo w Javie. Uwielbia back-end, toleruje JavaScript. Pasjonat Springa i języków około-Javowych. Rozczarowany jakością tworzonego oprogramowania (jakże często swojego!), nie znosi długich metod i ukrytych efektów ubocznych. Zakochany w wykresach, analizie danych i raportowaniu. Redaktor techniczny książki 'Learning Highcharts'. Uważa, że komputery wymyślono by programiści mogli automatyzować powtarzalne i nudne zadania. Także własne. Mieszka w Oslo, gdzie pracuje nad platformą track & trace. Posiada certyfikaty SCJP, SCJD, SCWCD i SCBCD. Członek zespołu scala.net.pl, zaangażowany w open source. Wyróżniony DZone's Most Valuable Blogger. Niegdyś aktywny na StackOverflow.",
+			"first_name":"Tomasz",
+			"last_name":"Nurkiewicz",
+			"display_name":"Tomasz Nurkiewicz",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/31.jpg",
+			"user_id":"confitura2013/31",
+			"speaker_id":"confitura2013/131//confitura2013/31"
+		},
+		{
+			"bio":"Jestem doświadczonym architektem specjalizującym się w tworzeniu wysokiej jakości oprogramowania. Będąc pod wrażeniem metodyk Agile i ruchu Software Craftsmanship wierzę w wartość dobrego, testowalnego i łatwego w utrzymaniu kodu. Dążę do tworzenia dobrego oprogramowania, które spełnia oczekiwania klienta i jednocześnie z którego zespół realizujący może być dumny. Dodatkowo poprzez prezentacje, szkolenia, zajęcia ze studentami i mentoring w firmach pokazuję jak można tworzyć oprogramowanie oparte na testach (z TDD, programowaniem w parach, czystym kodem, wzorcami projektowymi, itp.) oraz utrzymywać w firmie środowisko deweloperskie ukierunkowane na jakość (z serwerem CI, Sonarem, automatycznym wdrażaniem, itp.). Oprócz tego tworzę i angażuję się w projekty open source, jestem miłośnikiem Linuksa oraz prowadzę blog Solid Soft - Working code is not enough",
+			"first_name":"Marcin",
+			"last_name":"Zajączkowski",
+			"display_name":"Marcin Zajączkowski",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/33.jpg",
+			"user_id":"confitura2013/33",
+			"speaker_id":"confitura2013/133//confitura2013/33"
+		},
+		{
+			"bio":"Pracuję od 8 lat w branży IT. Jestem entuzjastą i praktykiem podejścia Agile/Lean zarówno w pracy zawodowej, jak i w życiu prywatnym. Jako lider zespołu stawiam przede wszystkim na zaufanie, szacunek i odpowiedzialność. Regularnie dbam o swój rozwój i tego samego oczekuję od ludzi, z którymi współpracuję. Lubię eksperymentować i usprawniać to, co robię. Jestem pozytywnie skrzywiony na punkcie tworzenia czystego kodu, mając na uwadze kontekst danego zespołu. Można mnie znaleźć na twitterze: http:// twitter.com/p_leszczynski",
+			"first_name":"Piotr",
+			"last_name":"Leszczyński",
+			"display_name":"Piotr Leszczyński",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/34.jpg",
+			"user_id":"confitura2013/34",
+			"speaker_id":"confitura2013/134//confitura2013/34"
+		},
+		{
+			"bio":"Tomasz jest prezesem oraz współzałożycielem Softwaremill. Zarządza zespołami, ale mocno wierzy w agile, więc sam w tych zespołach zajmuje się programowaniem. Posiada parę certyfikatów z różnych rzeczy, jest współ-leaderem Warszawa-JUG , pomagał przy Javarsovii/Confiturze i organizował dwie edycje AgileByExample. Bywa lekko złośliwy, lubi narty i kajaki. Prowadzi bloga i udziela się na twitterze.",
+			"first_name":"Tomasz",
+			"last_name":"Szymański",
+			"display_name":"Tomasz Szymański",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/36.jpg",
+			"user_id":"confitura2013/36",
+			"speaker_id":"confitura2013/136//confitura2013/36"
+		},
+		{
+			"bio":"Paweł Wrzeszcz Wspołzałożyciel firmy SoftwareMill. Pracuje zdalnie od ponad 7 lat. Na codzień stara się płynnie przestawiać pomiędzy zwinnym myśleniem na poziomie celów biznesowych i potencjalnych użytkowników systemu a linijkami (przetestowanego!) kodu aplikacji. Wczejśniej pracował m.in. dla JBossa, rozproszonego start-upu i dużej firmy z branży finansowej. Ostatnio zaangażowany w Codebraga. Andrzej Krzywda Założyciel firmy Arkency, pracującej w 100% zdalnie, od 6 lat. Aktywny uczestnik społeczności Ruby on Rails (miło wspominający swoją Javową przeszłość). Wykładowca Ruby on Rails na Uniwersytecie Wrocławskim. Współorganizator konferencji wroc_love.rb. Zwolennik anarchii w projektach informatycznych. Bolesław Dawidowicz Od 2005 roku wpółpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource oraz preferuje pracę zdalną. Obecnie jako Platform Architect jest odpowiedzialny za produkt JBoss Portal Platform oraz współ kieruje projektem GateIn Portal. Współtwórca projektu PicketLink. Członek “Expert Group” w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG - obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2008) oraz Warsjawa w latach 2008 i 2012.",
+			"first_name":"Paweł Wrzeszcz, Andrzej Krzywda &amp; Bolesław Dawidowicz",
+			"last_name":"PAB",
+			"display_name":"WKD.",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/39.jpg",
+			"user_id":"confitura2013/39",
+			"speaker_id":"confitura2013/139//confitura2013/39"
+		},
+		{
+			"bio":"Leads development team of 20 people working in complex environment with a lot of external dependencies in Sabre Polska. Rest part of his life he shares between lovely wife and 2 kids, as well as Java Community in Poland. Founder and only organizer of 33rd Degree conference. Chief Editor of JAVA exPress - first e-magazine about Java in Poland, owner of Polish Java blog aggregator, Java podcaster, organzier of NYAC and 5 editions of COOLuary - first Open Space Conference in Poland, former Polish JUG leader, organizer of 1st edition GeeCON conference, member of technical commitee of JDD and 4Developers.",
+			"first_name":"Grzegorz",
+			"last_name":"Duda",
+			"display_name":"Grzegorz Duda",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/41.jpg",
+			"user_id":"confitura2013/41",
+			"speaker_id":"confitura2013/141//confitura2013/41"
+		},
+		{
+			"bio":"Lider zespołu oraz software architect ze specjalizacją w interfejsach web-owych. Wyznawca wszystkiego co związane z dobrym User Experience. Prowadziłem lub uczestniczyłem w kilkunastu projektach dla dużych i średnich firm związanych z sektorem telekomunikacji, e-commerce, monitoringu i ochrony (T-Mobile, Play, Platforma cyfrowa „n”, EBS). Od ponad 6 lat wraz z małżonką tworzymy deweloperski tandem dla firmy TouK (www.touk.pl). Od ponad 2 lat prowadzimy własny projekt rozbudowanej gry webowej wzorowanej na takich klasykach jak „Master of Orion” czy „Cywilizacja”. Jako prelegent pojawiam się zarówno na konferencjach stricte biznesowych jak i tych związanych z Game Dev (JDD, WGK). W przeszłości projektowałem i tworzyłem rozwiązania informatyczne dla szeroko pojętej automatyki użytkowej. Rozwiązania te doczekały się dwóch patentów. Aktualnie jednak moje zainteresowania i praca „po godzinach” skupiają się na grach web-owych oraz „game community” w ogóle. Oczywiście o ile córka nie ma innego zdania o tym co młody tata powinien robić po godzinach ",
+			"first_name":"Michał",
+			"last_name":"Trzaskowski",
+			"display_name":"Michał Trzaskowski",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/43.jpg",
+			"user_id":"confitura2013/43",
+			"speaker_id":"confitura2013/143//confitura2013/43"
+		},
+		{
+			"bio":"Programista Ekspert w Grupie Allegro, gdzie od pięciu lat pracuje przy systemach wymagających wysokiej wydajności i skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w codziennej pracy. Wierzy w siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i opasłych rozwiązań JEE woli proste i dedykowane rozwiązania. Prywatnie wielki miłośnik gotowania, gier planszownych, fabularnych, karcianych i komputerowych oraz zagorzały fan seriali sci-fi.",
+			"first_name":"Piotr",
+			"last_name":"Modzelewski",
+			"display_name":"Piotr Modzelewski",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/49.jpg",
+			"user_id":"confitura2013/49",
+			"speaker_id":"confitura2013/149//confitura2013/49"
+		},
+		{
+			"bio":"Dawno temu byłem topologiem algebraicznym, zmagającym się z homotopijnymi granicami odwrotnymi kontrawariantych funktorów kohomologii grup (chyba tak to jakoś szło...) Potem zacząłem pracowę w TouK przy różnych większych i mniejszych projektach SOA i okazało się że Drools, Servicemix, OSGI, Camel czy Activiti też mogą być zabawne. W międzyczasie nie gardzę także frontendem - poczynając od GWT, poprzez Grailsy a kończąc na czystym Javascripcie. Cały czas mozolnie starałem testować się to co się da testować - a także tego czego 'sięnieda'. Teraz powoli następuje powrót do korzeni - czyli programowanie funkcyjne w stylu ML. W świecie Javy Scala wydaje się nalepszą drogą do tego. Last but not least od czterech lat dumny tata ;)",
+			"first_name":"Maciek",
+			"last_name":"Próchniak",
+			"display_name":"Maciek Próchniak",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/50.jpg",
+			"user_id":"confitura2013/50",
+			"speaker_id":"confitura2013/150//confitura2013/50"
+		},
+		{
+			"bio":"Od 5 lat programuje w języku Java. Obecnie pracuje jako developer w firmie TouK, zajmuje się tu głównie supportem systemów internetowych opartych o JVM. Parę lat temu ukończyłem wydział MINI na Politechnice Warszawskiej. W mojej codziennej pracy najczęściej poprawiam błędy popełnione przez innych programistów. Wymaga to kreatywności i praktycznego podejścia do problemu, nierzadko wszystko zaczyna się od wymyślenia jak można dany fragment funkcjonalności przetestować. Mam nadzieje, że moje doświadczenia, w szczególności doświadczenie z pisaniem testów funkcjonalnych, pomogą wam w tworzeniu lepszego oprogramowania :). W wolnym czasie prowadzę projekt gry komputerowej Gizarma. Jest to hardkorowa strategia online w uniwersum średniowiecznym, istnieje już grywalna wersja alfa.",
+			"first_name":"Michał",
+			"last_name":"Rokicki",
+			"display_name":"Michał Rokicki",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/55.jpg",
+			"user_id":"confitura2013/55",
+			"speaker_id":"confitura2013/155//confitura2013/55"
+		},
+		{
+			"bio":"Od 5 lat programuje w języku Java. Obecnie pracuje jako developer w firmie TouK, zajmuje się tu głównie supportem systemów internetowych opartych o JVM. Parę lat temu ukończyłem wydział MINI na Politechnice Warszawskiej. W mojej codziennej pracy najczęściej poprawiam błędy popełnione przez innych programistów. Wymaga to kreatywności i praktycznego podejścia do problemu, nierzadko wszystko zaczyna się od wymyślenia jak można dany fragment funkcjonalności przetestować. Mam nadzieje, że moje doświadczenia, w szczególności doświadczenie z pisaniem testów funkcjonalnych, pomogą wam w tworzeniu lepszego oprogramowania :). W wolnym czasie prowadzę projekt gry komputerowej Gizarma. Jest to hardkorowa strategia online w uniwersum średniowiecznym, istnieje już grywalna wersja alfa.",
+			"first_name":"Jarosław",
+			"last_name":"Pałka",
+			"display_name":"Jarosław Pałka",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/57.jpg",
+			"user_id":"confitura2013/57",
+			"speaker_id":"confitura2013/157//confitura2013/57"
+		},
+		{
+			"bio":"Programista, tech-leader i architekt oprogramowania, związany branżą IT od ponad 13 lat. Od dłuższego czasu zajmuje się projektowaniem i wdrażaniem architektur aplikacji webowych w projektach, w których czynnik wydajności ma kluczowe znaczenie. Obecnie kieruje zespołem developerów tworzących m.in. systemy personalizowanych rekomendacji, wcześniej pracował przy takich projektach jak Nasza-Klasa czy Gadu-Gadu. Od roku entuzjasta BigData i tematów wiążących się z przetwarzaniem oraz analizą dużych ilości informacji. Choć na codzień nie jest bezpośrednio związany z Javą, potrafi docenić i wykorzystać jej moc ;)",
+			"first_name":"Mariusz",
+			"last_name":"Gil",
+			"display_name":"Mariusz Gil",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/58.jpg",
+			"user_id":"confitura2013/58",
+			"speaker_id":"confitura2013/158//confitura2013/58"
+		},
+		{
+			"bio":"Ludzie są ważniejsi niż procesy. Mogę dodać jeszcze, że dla mnie są ważniejsi niż komputery, technologie i narzędzia. Zaczynałam pewnie jak wielu z nas od aplikacji webowych, java, c#, poprzez krótki romans ze specyficznym językiem People Code aż w końcu zdecydowałam się na development w bazach danych. Pomimo skończenia informatyki i wieloletniej pracy programistycznej mogę powiedzieć, że w głębi serca jestem humanistą - a na zewnątrz inżynierem. Jestem developerem, ale dużo bardziej interesuje mnie czynnik ludzki, gdyż to właśnie ludzie tworzą systemy, a nie komputery. Wiele razy udało mi się zastąpić wydumane rozwiązania technologiczne prostymi rozwiązaniami - choćby organizacyjnymi. Bardzo ważna jest dla mnie współpraca z klientem i zespołem. I głęboko wierzę w to, że bardzo dużo można osiągnąć stawiając na ludzi. Aha i najważniejsze: pracuję w Touk :)",
+			"first_name":"Joanna",
+			"last_name":"Siemińska",
+			"display_name":"Joanna Siemińska",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/59.jpg",
+			"user_id":"confitura2013/59",
+			"speaker_id":"confitura2013/159//confitura2013/59"
+		},
+		{
+			"bio":"Z lansu społęcznościowego to organizowaliśmy taka dużo konferencję Mobilizacja na 500 osób w Łodzi. Do tego uskuteczniliśmy kilka prezentacji na łódzkim JUGu, targach pracy i ostatnio na 4Developers. Do tego było Code Retreat i inne takie. A w pracy to Cloud + Agile = : )",
+			"first_name":"Paweł Wojciech",
+			"last_name":"Włodarski Młynarczyk",
+			"display_name":"Paweł Włodarski i Wojciech Młynarczyk",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/60.jpg",
+			"user_id":"confitura2013/60",
+			"speaker_id":"confitura2013/160//confitura2013/60"
+		},
+		{
+			"bio":"Fascynat zwinnych metodyk wytwarzania oprogramowania. Od kilku lat pracuje tam, gdzie jest Agile lub wprowadza Agile tam, gdzie pracuje. Oddany ciągłemu doskonaleniu własnego warsztatu, jak i umiejętności innych programistów.",
+			"first_name":"Krzysztof",
+			"last_name":"Jelski",
+			"display_name":"Krzysztof Jelski",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/61.jpg",
+			"user_id":"confitura2013/61",
+			"speaker_id":"confitura2013/161//confitura2013/61"
+		},
+		{
+			"bio":"Lubię: uczciwych, piszących czytelny kod, mówiących 'nie', kiedy trzeba, testy. Nie lubię: zbędnego kodu, robienia czegoś 'bo można, więc czemu nie',   LAFK @ SC-KRK   LAFK blogs @ wordpress.com   Architekt @ Lumesse Solennie obiecuję zrobić ciekawą prezentację / kata / co innego.",
+			"first_name":"Tomasz",
+			"last_name":"Borek",
+			"display_name":"Tomasz Borek",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/63.jpg",
+			"user_id":"confitura2013/63",
+			"speaker_id":"confitura2013/163//confitura2013/63"
+		},
+		{
+			"bio":"Architekt, konsultant, trener specjalizujący się w technologii .NET i efektywnych metodach procesu produkcji oprogramowania. Interesuje się szeroko pojętą inżynierią oprogramowania i poprawnym jej użyciem na każdym etapie tworzenia rozwiązania. W skład jego zainteresowań wchodzą metodyki prowadzenia projektów, architektura systemów, wzorce projektowe, procesy interakcji i użyteczności w kontekście końcowego użytkownika oprogramowania. Współpracuje jako trener z firmą szkoleniową Bottega IT Solutions Wiceprezes Stowarzyszenia Software Engineering Professionals Polska W wolnych chwilach blogger piszący pragmatycznie o inżynierii oprogramowania. Można go także spotkać na twitterze @PiotrKarczmarz",
+			"first_name":"Piotr",
+			"last_name":"Karczmarz",
+			"display_name":"Piotr Karczmarz",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/64.jpg",
+			"user_id":"confitura2013/64",
+			"speaker_id":"confitura2013/164//confitura2013/64"
+		},
+		{
+			"bio":"Tomek od 20 lat usiłuje programować komputery z różnym skutkiem, a obecnie jest senior developerem w krakowskim start-upie SmartRecruiters, gdzie - jak w każdym startupie - próbuje zmienić świat. Zwolennik rozwiązań eleganckich i minimalistycznych rozwiązań, w myśl 'mniej znaczy więcej'. Gdy nie programuje w Javie pasjonuje się technologiami mobilnymi, programuje w systemie iOS i gotuje dania kuchni orientalnej.",
+			"first_name":"Tomek",
+			"last_name":"Cejner",
+			"display_name":"Tomek Cejner",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/68.jpg",
+			"user_id":"confitura2013/68",
+			"speaker_id":"confitura2013/168//confitura2013/68"
+		},
+		{
+			"bio":"",
+			"first_name":"Paweł",
+			"last_name":"Szulc",
+			"display_name":"Paweł Szulc",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/69.jpg",
+			"user_id":"confitura2013/69",
+			"speaker_id":"confitura2013/169//confitura2013/69"
+		},
+		{
+			"bio":"Marek Defeciński Marek jest członkiem stowarzyszenia Java User Group Łódź, które organizuje regularne prelekcje dla programistów z Łodzi i okolic. W ramach JUG Łódź, był też jednym z głównych organizatorów dwóch edycji konferencji o technologiach mobilnych - Mobilization.pl. Jako programista Javy pracuje już ponad 8 lat. Ostatnie kilka spędził w firmie Mobica gdzie zajmował się kodowaniem aplikacji mobilnych (kiedyś j2me a teraz Android). Interesuje się testowaniem aplikacji, a szczególnie testami, które wykonują developerzey, a nie zespół QA. Poza pracą ma nowe hobby raz na pół roku. Ostatnio na liście są rolki i gry planszowe. Andrzej Jóźwiak Andrzej pracuje w firmie Mobica Ltd., gdzie specjalizuje się w tworzeniu aplikacji przeznaczonych na platformę Android. Jego zainteresowania skupiają się na nowoczesnych technologiach, pisaniu gier, przetwarzaniu obrazu ale przede wszystkim na rozwiązaniach mobilnych. Aktywnie udziela się jako członek stowarzyszenia JUG Łódź, gdzie pojawia się również jako prelegent. Wspiera i pomaga w organizacji Mobilization.pl - konferencji o technologiach mobilinych. Po pracy czas wypełnia mu rodzina, snucie planów dotyczących startupów oraz spisywanie pomysłów na gry w notatniku.",
+			"first_name":"Marek Andrzej",
+			"last_name":"Defeciński i Jóźwiak",
+			"display_name":"Marek Defeciński i Andrzej Jóźwiak",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/72.jpg",
+			"user_id":"confitura2013/72",
+			"speaker_id":"confitura2013/172//confitura2013/72"
+		},
+		{
+			"bio":"COO Geek Girls Carrots, zajmująca się głównie rozwojem nowych projektów, między innymi warsztatów Django Carrots. Jako doktorantka w Instytucie Socjologii UW, podejmuje problematykę społecznego kreowania języków programowania oraz kultury komputerowej. Jest założycielką startapu Taagshirts. Aktywnie działa na rzecz ochrony i edukacji praw człowieka w Polsce. Promuje ideę wzajemnego kształcenia – współorganizatorka Offtopicarium, organizatorka Wakacyjnej Akademii Nie Tylko dla Geeków.",
+			"first_name":"Kamila",
+			"last_name":"Stępniowska",
+			"display_name":"Kamila Stępniowska",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/74.jpg",
+			"user_id":"confitura2013/74",
+			"speaker_id":"confitura2013/174//confitura2013/74"
+		},
+		{
+			"bio":"Programista Javy od 5 lat, od 2 lat w JAVART. Zwolennik tezy, że 'dobry kod to taki, który rozumie inny programista, niekoniecznie maszyna'. Przez to jest wielkim zwolennikiem testów jednostkowych i code-review. W codziennej pracy ideologiczne zapędy stara się godzić z pragmatycznym podejściem w tworzeniu oprogramowania. ",
+			"first_name":"Jacek",
+			"last_name":"Kiliański",
+			"display_name":"Jacek Kiliański",
+			"plusone_url":"https://plus.google.com/u/0/104524825852741167674/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/75.jpg",
+			"user_id":"confitura2013/75",
+			"speaker_id":"confitura2013/175//confitura2013/75"
+		},
+		{
+			"bio":"Mateusz ma ponad 10 lat doświadczenia jako programista Java i rok w Scali pracując dla różnych klientow przy użyciu mniej lub bardziej popularnych technologii na rynku. Był zatrudniony w wielu firmach, w róznych krajach Europy. Zajmował sie programowaniem tak egzotycznych urządzeń jak STB (Set Top Boxes) w Javie, jak i aplikacjami w Swingu, a także popularnymi aplikacjami webowymi (Spring MVC). Aktualnie pracuje w mobile.de (eBay.de) nad produktem, zrealizowanym jako tzw. aplikacja Responsive Design - aplikacja webowa do wyszukiwania aut - nastawiona na wspomaganie importowania samochodów z zagranicy - projekt Showroom (http://mobile.de/cz, http://mobile.de/pl i http://mobile.de/ro). Zainteresowany językiem Scala i frameworkiem Play. Prywatnie milośnik psychologii i filozofii, który w wolnym czasie lubi grać w ping-ponga, pływać i jeździć na rowerze.",
+			"first_name":"Mateusz",
+			"last_name":"Szczap",
+			"display_name":"Mateusz Szczap",
+			"plusone_url":"https://plus.google.com/u/0/116539451797396019960/posts",
+			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/76.jpg",
+			"user_id":"confitura2013/76",
+			"speaker_id":"confitura2013/176//confitura2013/76"
+		}
+	],
+	"etag":"\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
+}

@@ -1,0 +1,54 @@
+{
+ "track": [
+   {
+     "name": "cloud",
+     "color": "#46B0E2",
+     "abstract": "Oprogramowanie w chmurze"
+   },
+   {
+     "name": "język jvm",
+     "color": "#2076BC",
+     "abstract": "Scala Clojure Groovy"
+   },
+   {
+     "name": "komercjalizacja",
+     "color": "#4CAA47",
+     "abstract": "Kasa kasa kasa "
+   },
+   {
+     "name": "android",
+     "color": "#A6BC40",
+     "abstract": "Android, platforma w której napiszesz aplikacje mobilne w javie"
+   },
+   {
+     "name": "zarządzanie",
+     "color": "#00773F",
+     "abstract": "Zarządzanie projektami IT"
+   },
+   {
+     "name": "java",
+     "color": "#F5851F",
+     "abstract": "Co nowego w Javie i o Javie "
+   },
+   {
+     "name": "testy",
+     "color": "#4CAA47",
+     "abstract": "Jednostkowe integracyjne funkcjonalne wydajnościowe"
+   },
+   {
+     "name": "jakość",
+     "color": "#37505C",
+     "abstract": "O jakości kodu"
+   },
+   {
+     "name": "architektura",
+     "color": "#DC4E30",
+     "abstract": "Czy 8K lini w 1 klasie to za mało?"
+   },
+   {
+     "name": "java script",
+     "color": "#DC4EFF",
+     "abstract": "O java script"
+   }
+ ]
+}

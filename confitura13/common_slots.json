@@ -1,0 +1,75 @@
+{
+  "day": [
+    {
+      "date": "2013-07-06",
+      "slot": [
+        {
+          "start": "08:00",
+          "end": "09:00",
+          "title": "Rejestracja",
+          "meta": "Zaczynamy .. "
+        },
+        {
+          "start": "09:00",
+          "end": "09:10",
+          "title": "Rozpoczęcie - Kapituła",
+          "meta": ""
+        },
+	{
+	  "start": "09:10",
+          "end": "10:00",
+          "title": "Keynote",
+          "meta": ""
+	},
+        {
+          "start": "10:00",
+          "end": "10:10",
+          "title": "Kawa",
+          "meta": ""
+        },
+        {
+          "start": "11:00",
+          "end": "11:20",
+          "title": "Kawa",
+          "meta": ""
+        },
+        {
+          "start": "12:10",
+          "end": "12:20",
+          "title": "Kawa",
+          "meta": ""
+        },
+        {
+          "start": "13:10",
+          "end": "14:10",
+          "title": "Obiad",
+          "meta": ""
+        },
+        {
+          "start": "15:00",
+          "end": "15:10",
+          "title": "Kawa",
+          "meta": ""
+        },
+        {
+          "start": "17:10",
+          "end": "17:20",
+          "title": "Przerwa",
+          "meta": ""
+        },
+        {
+          "start": "17:40",
+          "end": "18:00",
+          "title": "Zakończenie i rozdanie nagród",
+          "meta": "Level 2"
+        },
+        {
+          "start": "19:30",
+          "end": "23:59",
+          "title": "SPOINa",
+          "meta": "Level 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "rooms": [
+    {
+      "id": "lunchroom",
+      "name":"Obiad",
+      "floor": "1"
+    },
+
+    {
+      "id": "1",
+      "name":"Konfitura",
+      "floor": "3"
+    },
+    {
+      "id": "2",
+      "name":"Marmolada",
+      "floor": "2"
+    },
+    {
+      "id": "3",
+      "name":"Dżem",
+      "floor": "2"
+    },
+    {
+      "id": "4",
+      "name":"Powidło",
+      "floor": "2"
+    }
+  ]
+}

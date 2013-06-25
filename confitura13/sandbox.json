@@ -1,0 +1,41 @@
+[
+	{
+		"website":"www.boardwalktech.com",
+		"product_pod":"Gold",
+		"company_description":"Boardwalktech is a software company which empowers companies to build and maintain competitive advantage through business process automation in the collaborative planning space.",
+		"logo_vector":"BWT Logo (RGB) 2009.ai",
+		"exhibitors":[
+			"JB Kuppe",
+			"Dharmesh Dadbhawala"
+		],
+		"product_description":"Boardwalktech provides patented technology for Google Spreadsheet which enables access control, slicing of large data sets, interoperability with Excel, and integration with enterprise systems.",
+		"company_name":"Boardwalktech",
+		"logo_img":"BWT Logo 94x94.jpg"
+	},
+	{
+		"website":"http://www.disney.com",
+		"product_pod":"Chrome",
+		"company_description":"Disney Interactive entertains kids, families and Disney enthusiasts everywhere with world-class products that push the boundaries of technology and imagination. ",
+		"logo_vector":"tbd - will e-mail",
+		"exhibitors":[
+			"Karlene Nguyen",
+			"Tamer Eskander"
+		],
+		"product_description":"Play high-quality HTML5 games on Disney.com in desktop & mobile Chrome browsers! Agent P Strikes Back is a fun, 2-D platformer game that highlights excellent HTML5 performance in Chrome!",
+		"company_name":"Disney",
+		"logo_img":"tbd - will e-mail"
+	},
+	{
+		"website":"http://goburp.com",
+		"product_pod":"Google Maps",
+		"company_description":"Discover & Rank The Best Places For Your Favorite Dishes.",
+		"logo_vector":"burp",
+		"exhibitors":[
+			"Danny Roa",
+			"Sho Takahashi"
+		],
+		"product_description":"Be it Burger, Ramen or Wings, Find & Share the Best Places To Get Your Favorite Dishes in Your City. ",
+		"company_name":"Burp",
+		"logo_img":"burp"
+	}
+]
