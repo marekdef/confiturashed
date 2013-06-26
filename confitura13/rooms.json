@@ -7,24 +7,30 @@
     },
 
     {
-      "id": "1",
+      "id": "k",
       "name":"Konfitura",
       "floor": "3"
     },
     {
-      "id": "2",
+      "id": "m",
       "name":"Marmolada",
       "floor": "2"
     },
     {
-      "id": "3",
+      "id": "d",
       "name":"Dżem",
       "floor": "2"
     },
     {
-      "id": "4",
+      "id": "p",
       "name":"Powidło",
       "floor": "2"
+    },
+    {
+      "id": "s",
+      "name":"Spiżarnia",
+      "floor": "2"
     }
+    
   ]
 }

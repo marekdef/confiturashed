@@ -11,11 +11,6 @@
      "abstract": "Scala Clojure Groovy"
    },
    {
-     "name": "komercjalizacja",
-     "color": "#4CAA47",
-     "abstract": "Kasa kasa kasa "
-   },
-   {
      "name": "android",
      "color": "#A6BC40",
      "abstract": "Android, platforma w której napiszesz aplikacje mobilne w javie"

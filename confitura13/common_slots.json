@@ -5,66 +5,60 @@
       "slot": [
         {
           "start": "08:00",
-          "end": "09:00",
-          "title": "Rejestracja",
+          "end": "09:10",
+          "title": "Rejestracja i kawa",
           "meta": "Zaczynamy .. "
         },
         {
-          "start": "09:00",
-          "end": "09:10",
+          "start": "09:10",
+          "end": "09:30",
           "title": "Rozpoczęcie - Kapituła",
           "meta": ""
         },
-	{
-	  "start": "09:10",
-          "end": "10:00",
-          "title": "Keynote",
-          "meta": ""
-	},
         {
-          "start": "10:00",
-          "end": "10:10",
-          "title": "Kawa",
+          "start": "10:20",
+          "end": "10:40",
+          "title": "przerwa",
           "meta": ""
         },
         {
-          "start": "11:00",
-          "end": "11:20",
-          "title": "Kawa",
+          "start": "11:30",
+          "end": "11:50",
+          "title": "przerwa",
           "meta": ""
         },
         {
-          "start": "12:10",
-          "end": "12:20",
-          "title": "Kawa",
+          "start": "12:40",
+          "end": "13:40",
+          "title": "długa przerwa",
           "meta": ""
         },
         {
-          "start": "13:10",
-          "end": "14:10",
-          "title": "Obiad",
+          "start": "14:30",
+          "end": "14:50",
+          "title": "przerwa",
           "meta": ""
         },
         {
-          "start": "15:00",
-          "end": "15:10",
-          "title": "Kawa",
+          "start": "15:40",
+          "end": "16:00",
+          "title": "przerwa",
           "meta": ""
         },
         {
-          "start": "17:10",
-          "end": "17:20",
-          "title": "Przerwa",
+          "start": "16:50",
+          "end": "17:10",
+          "title": "przerwa",
           "meta": ""
         },
         {
-          "start": "17:40",
-          "end": "18:00",
+          "start": "18:00",
+          "end": "18:30",
           "title": "Zakończenie i rozdanie nagród",
           "meta": "Level 2"
         },
         {
-          "start": "19:30",
+          "start": "18:30",
           "end": "23:59",
           "title": "SPOINa",
           "meta": "Level 3"
