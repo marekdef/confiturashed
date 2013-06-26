@@ -128,9 +128,9 @@
 		},
 		{
 			"bio":"Paweł Wrzeszcz Wspołzałożyciel firmy SoftwareMill. Pracuje zdalnie od ponad 7 lat. Na codzień stara się płynnie przestawiać pomiędzy zwinnym myśleniem na poziomie celów biznesowych i potencjalnych użytkowników systemu a linijkami (przetestowanego!) kodu aplikacji. Wczejśniej pracował m.in. dla JBossa, rozproszonego start-upu i dużej firmy z branży finansowej. Ostatnio zaangażowany w Codebraga. Andrzej Krzywda Założyciel firmy Arkency, pracującej w 100% zdalnie, od 6 lat. Aktywny uczestnik społeczności Ruby on Rails (miło wspominający swoją Javową przeszłość). Wykładowca Ruby on Rails na Uniwersytecie Wrocławskim. Współorganizator konferencji wroc_love.rb. Zwolennik anarchii w projektach informatycznych. Bolesław Dawidowicz Od 2005 roku wpółpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource oraz preferuje pracę zdalną. Obecnie jako Platform Architect jest odpowiedzialny za produkt JBoss Portal Platform oraz współ kieruje projektem GateIn Portal. Współtwórca projektu PicketLink. Członek “Expert Group” w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG - obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2008) oraz Warsjawa w latach 2008 i 2012.",
-			"first_name":"Paweł Wrzeszcz, Andrzej Krzywda &amp; Bolesław Dawidowicz",
-			"last_name":"PAB",
-			"display_name":"WKD.",
+			"first_name":"PAB",
+			"last_name":"WKD",
+			"display_name":"Paweł Wrzeszcz, Andrzej Krzywda &amp; Bolesław Dawidowicz",
 			"thumbnail_url":"http://www.saramak.eu/ftpmario/confitura13/sp/39.jpg",
 			"user_id":"confitura2013/39",
 			"speaker_id":"confitura2013/139//confitura2013/39"
@@ -309,9 +309,9 @@
 		},
 {
 			"bio":" Ingo Dyck \n Operations Engineer specialized on Linux/Java/MySQL based web-platforms, working in the mobile.de Site Operations team for four years. He is a big believer in the \"DevOps Way\" and KISS principle. He would rather do something instead of just talking about it.  \n\n André Peglow \n Engineer specialized in software intensive systems based on Java. Believes in sanity and reason, the agile manifesto and craftsmanship. Works for mobile de for five years. He is very passionate about software architecture and development processes. ",
-			"first_name":"Tomasz",
-			"last_name":"Wiśniewski",
-			"display_name":"Tomasz Wiśniewski",
+			"first_name":"Ingo André",
+			"last_name":"Dyck Peglow",
+			"display_name":"Ingo Dyck André Peglow",
 			"thumbnail_url":"http://2013.confitura.pl/files/speaker/78.jpg",
 			"user_id":"confitura2013/78",
 			"speaker_id":"confitura2013/177//confitura2013/78"
