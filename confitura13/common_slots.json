@@ -13,42 +13,42 @@
           "start": "09:10",
           "end": "09:30",
           "title": "Rozpoczęcie - Kapituła",
-          "meta": ""
+          "meta": "Oj bedzie się działo"
         },
         {
           "start": "10:20",
           "end": "10:40",
-          "title": "przerwa",
+          "title": "Przerwa",
           "meta": ""
         },
         {
           "start": "11:30",
           "end": "11:50",
-          "title": "przerwa",
+          "title": "Przerwa",
           "meta": ""
         },
         {
           "start": "12:40",
           "end": "13:40",
-          "title": "długa przerwa",
-          "meta": ""
+          "title": "Długa przerwa",
+          "meta": "Obiadowa"
         },
         {
           "start": "14:30",
           "end": "14:50",
-          "title": "przerwa",
+          "title": "Przerwa",
           "meta": ""
         },
         {
           "start": "15:40",
           "end": "16:00",
-          "title": "przerwa",
+          "title": "Przerwa",
           "meta": ""
         },
         {
           "start": "16:50",
           "end": "17:10",
-          "title": "przerwa",
+          "title": "Przerwa",
           "meta": ""
         },
         {
@@ -58,7 +58,7 @@
           "meta": "Level 2"
         },
         {
-          "start": "18:30",
+          "start": "19:00",
           "end": "23:59",
           "title": "SPOINa",
           "meta": "Level 3"
