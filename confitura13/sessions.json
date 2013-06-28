@@ -81,13 +81,13 @@
 						"jakość",
 						"testy"
 					],
-					"start_time":"09:30",
+					"start_time":"17:10",
 					"title":"Testy funkcjonalne (Selenium) w praktyce",
 					"abstract":"Testy jednostkowe są dobre i kluczowe dla zdrowia aplikacji, ale pewnych rzeczy nie da się przetestować bez ogólniejszego spojrzenia, najlepiej okiem klienta przez przeglądarkę. To jest własnie miejsce gdzie doskonale sprawdzą się testy funkcjonalne.Opowiem o tym jak pisać testy funkcjonalne, żeby były utrzymywalne, kiedy najlepiej się sprawdzają, czym różnią się od testów jednostkowych, jak skonfigurować środowisko do takich testów i o tym jak je zintegrować z zewnętrznymi źródłami danych. Powiem również czego robić nie należy i co może być potencjalnym źródłem kłopotów. Prezentacja o testowaniu funckcjonalnym będzie oparta o moje (i nie tylko moje) 3 letnie doświadczenie, które zdobyłem w 2 firmach. Podam praktyczne przykłady testów używających frameworka selenium.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
-					"end_time":"10:20",
+					"end_time":"18:00",
 					"id":"confitura2013/62/",
 					"tags":"testy, junit, selenium",
 					"speaker_id":[
@@ -752,7 +752,7 @@
 						"cloud",
 						"bigdata"
 					],
-					"start_time":"17:10",
+					"start_time":"9:30",
 					"prereq":[
 						"none"
 					],
@@ -760,7 +760,7 @@
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
-					"end_time":"18:00",
+					"end_time":"10:20",
 					"title":"Storm, rozproszony system przetwarzania danych realtime",
 					"id":"confitura2013/67/",
 					"tags":"Apache, BigData,Hadoop",
