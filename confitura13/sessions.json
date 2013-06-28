@@ -218,7 +218,7 @@
 					],
 					"start_time":"10:40",
 					"title":"Review your code like a Googler",
-					"abstract":"Żadna linia kodu nie trafia do repozytorium bez code reviw to jedna z zasad obowiązujących w Google. Kiedy projekt Andorid był oddawany do społeczności Google również chciało zachować tą zasadę, właśnie w tym celu powstał Gerrit.  Gerrit jest to silnie zintegorwany z Gitem system code review. Po za samym serwerem Gerrita nie potrzebujesz nic więcej żeby rozpocząć swoją przygodę. Gerrit to nie tylko code review ale również w pełni funkcjonalny server Gita z rozbudowanym system ACLi oraz WebUI, więc możesz go użyć jako zwykły serwer Gita, użytkownik końcowy nie zauważy różnicy.\n Jeżeli do tej pory nie słyszałeś o Gerricie, przyjdź koniecznie niech nie ominie Ciebie rewolucja code review! \n Jeżeli natomiast wiesz czym jest Gerrit bądź też już z niego korzystasz, przyjdź i dowiedz się o nowościach w wersji 2.8, rozbudowanym systemie wtyczek i rozszerzeń oraz regułach mergeowania zmian.",
+					"abstract":"Żadna linia kodu nie trafia do repozytorium bez code reviw to jedna z zasad obowiązujących w Google. Kiedy projekt Andorid był oddawany do społeczności Google również chciało zachować tą zasadę, właśnie w tym celu powstał Gerrit.  Gerrit jest to silnie zintegorwany z Gitem system code review. Po za samym serwerem Gerrita nie potrzebujesz nic więcej żeby rozpocząć swoją przygodę. Gerrit to nie tylko code review ale również w pełni funkcjonalny server Gita z rozbudowanym system ACLi oraz WebUI, więc możesz go użyć jako zwykły serwer Gita, użytkownik końcowy nie zauważy różnicy. Jeżeli do tej pory nie słyszałeś o Gerricie, przyjdź koniecznie niech nie ominie Ciebie rewolucja code review! Jeżeli natomiast wiesz czym jest Gerrit bądź też już z niego korzystasz, przyjdź i dowiedz się o nowościach w wersji 2.8, rozbudowanym systemie wtyczek i rozszerzeń oraz regułach mergeowania zmian.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -239,7 +239,7 @@
 					],
 					"start_time":"11:50",
 					"title":"Model jest wszystkim czego potrzebujesz (w aplikacjach biznesowych) - czyli czego nauczyłem się w ciągu 6 lat stosowania i nauczania DDD",
-					"abstract":"\"Dlaczego ta zmiana kosztuje 100 mandaysów? Przecież chciałem dodać tylko jeden checkbox na ekranie?\" \n \"Ale jaki dług techniczny musimy teraz spłacić? Przecież do tej pory wszystko działało!\" \n Wszyscy zapewne dobrze znamy tego typu sentencje. \n Na domiar złego pojawiają się nowe symptomy: programiści uciekają z organizacji mamrocząc po nosem coś o \"big ball of mud\" - dziwne, przecież dostali karnet na siłownię...  Podczas prezentacji przedstawię kilkanaście \"special hacks\" modelowania domen. Niektóre z nich będą oczywiste (choć zwykle nieuświadomione) a inne mniej.  Niektóre mogą być dużymi zmianami a inne drobnymi szczegółami, które jednak robią różnicę. (...) Główna część zostanie poświęcona konkretnym technikom modelowania, które mogą być pomocne na poziomie procesu, na poziomie komunikacji oraz na poziomie architektury i implementacji.",
+					"abstract":"\"Dlaczego ta zmiana kosztuje 100 mandaysów? Przecież chciałem dodać tylko jeden checkbox na ekranie?\" \"Ale jaki dług techniczny musimy teraz spłacić? Przecież do tej pory wszystko działało!\" Wszyscy zapewne dobrze znamy tego typu sentencje. Na domiar złego pojawiają się nowe symptomy: programiści uciekają z organizacji mamrocząc po nosem coś o \"big ball of mud\" - dziwne, przecież dostali karnet na siłownię...  Podczas prezentacji przedstawię kilkanaście \"special hacks\" modelowania domen. Niektóre z nich będą oczywiste (choć zwykle nieuświadomione) a inne mniej.  Niektóre mogą być dużymi zmianami a inne drobnymi szczegółami, które jednak robią różnicę. (...) Główna część zostanie poświęcona konkretnym technikom modelowania, które mogą być pomocne na poziomie procesu, na poziomie komunikacji oraz na poziomie architektury i implementacji.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -278,10 +278,11 @@
 					"level":"",
 					"track":[
 						"zarządzanie",
-						"jakość"
+						"jakość",
+						"rozwój"
 					],
 					"start_time":"11:50",
-					"title":"W jaki sposób zatrzymać najlepszych ? Kluczowe aspekty motywacji zespołów",
+					"title":"W jaki sposób zatrzymać najlepszych? Kluczowe aspekty motywacji zespołów",
 					"abstract":"Wyłowienie z rynku i zatrudnienie najlepszych to tylko początek. Podczas prelekcji dowiesz się co motywuje zespoły deweloperskie i co sprawia, że swoją przyszłość wiążą z firmą, w której są zatrudnieni. Omówimy jakich błędów unikać motywując i utrzymując zespoły deweloperskie. Natomiast zespoły deweloperskie lepiej będą mogły rozumieć potrzeby biznesu i komunikować własne. Prezentacja będzie osadzona na kanwie trzech kręgów Zasady Jeża: rozwiajaniu pasji, dążenia to bycia najlepszym, korzyściach materialnych, Odwołując się do każdego z kręgów Zasady Jeża omówimy w jaki sposób odnoszą się one do zespołów deweloperskich z punktu widzenia biznesu oraz samych zespołów.Poruszymy także aspekty komunikacji na linii biznes zespół wytwórczy, które pozwolą na bardziej efektywną komunikację obu środowisk w modelu DevOps",
 					"start_date":"2013-07-06",
 					"attending":"N",
@@ -304,7 +305,7 @@
 					],
 					"start_time":"11:50",
 					"title":"Co możesz wziąć z Lean Startup w twoim nudnym, przewidywalnym projekcie? ",
-					"abstract":"Spojrzenie na zmiany, jakie ruch Lean Startup wywołuje w dziedzinie tworzenia oprogramowania może być bardzo, bardzo pomocne dla wszystkich. Także dla tych z nas, którzy pracują w zupełnie nie-startupowych projektach. Chociaż z drugiej strony - czy aby na pewno w tych naszych projektach jest tak mało innowacyjności i niepewności?... Co by się stało, gdybyś na swojej Kanbanowej tablicy dodał na końcu kolumnę \"Validated\" - zmierzone, czy rzeczywiście warto było robić daną funkcjonalność.Jak zmieniłaby się Twoja motywacja, gdybyś zrozumiał jaki cel biznesowy próbuje osiągnąć Twój klient za pomocą oprogramowania, które dla niego tworzysz? A jak byś się poczuł, gdyby udało Ci się zaproponować prostsze rozwiązanie, które doprowadzi go to tego samego celu?Będę odwoływał się do moich doświadczeń z projektów o klimacie bliższym korporacyjnemu niż starupowemu.",
+					"abstract":"Spojrzenie na zmiany, jakie ruch Lean Startup wywołuje w dziedzinie tworzenia oprogramowania może być bardzo, bardzo pomocne dla wszystkich. Także dla tych z nas, którzy pracują w zupełnie nie-startupowych projektach. Chociaż z drugiej strony - czy aby na pewno w tych naszych projektach jest tak mało innowacyjności i niepewności?... Co by się stało, gdybyś na swojej Kanbanowej tablicy dodał na końcu kolumnę \"Validated\" - zmierzone, czy rzeczywiście warto było robić daną funkcjonalność.Jak zmieniłaby się Twoja motywacja, gdybyś zrozumiał jaki cel biznesowy próbuje osiągnąć Twój klient za pomocą oprogramowania, które dla niego tworzysz? A jak byś się poczuł, gdyby udało Ci się zaproponować prostsze rozwiązanie, które doprowadzi go to tego samego celu? Będę odwoływał się do moich doświadczeń z projektów o klimacie bliższym korporacyjnemu niż starupowemu.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -406,8 +407,7 @@
 					"end_date":"2013-07-06",
 					"level":"Level 1",
 					"track":[
-						"java",
-						"rozwój"
+						"java"
 					],
 					"start_time":"13:40",
 					"title":"Krótka historia czasu",
@@ -520,7 +520,7 @@
 					],
 					"start_time":"14:50",
 					"title":"Co tam panie w polityce? Hindusi trzymają się mocno?",
-					"abstract":"Indie stają się superpotęgą IT. Sam ten kraj dostrzega gdzie leży spore źródło jego dochodu i wspomaga ten proces, który toczyć się zaczął jeszcze w zeszłym stuleciu, a rozpędu nabierał już 10 lat temu:  \"India's IT software and services exports alone are estimated to cross an ambitious US$ 50 billion by 2008 (the NASSCOM-McKinsey 2003 Report).\"  Obecne prognozy są jeszcze wyższe i sam rząd Indii bardzo pilnuje, by je spełnić. Czyli szanse na to, że będziesz współpracował z Hindusami rosną. \n Celem tej prezentacji jest przygotowanie Cię na to, co to znaczy, jak i przekazanie kilku sprawdzonych metod współpracy. ",
+					"abstract":"Indie stają się superpotęgą IT. Sam ten kraj dostrzega gdzie leży spore źródło jego dochodu i wspomaga ten proces, który toczyć się zaczął jeszcze w zeszłym stuleciu, a rozpędu nabierał już 10 lat temu:  \"India's IT software and services exports alone are estimated to cross an ambitious US$ 50 billion by 2008 (the NASSCOM-McKinsey 2003 Report).\"  Obecne prognozy są jeszcze wyższe i sam rząd Indii bardzo pilnuje, by je spełnić. Czyli szanse na to, że będziesz współpracował z Hindusami rosną. Celem tej prezentacji jest przygotowanie Cię na to, co to znaczy, jak i przekazanie kilku sprawdzonych metod współpracy. ",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -628,6 +628,7 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
+						"rozwój",
 						"jakość",
 						"zarządzanie"
 					],
@@ -682,7 +683,7 @@
 					"prereq":[
 						"none"
 					],
-					"abstract":"Gdy termin RESTful web services stał się jednym z gorętszych buzzwordów ostatnich lat, zastanówmy się co to tak naprawdę oznacza, jak należy projektować naprawdę \"REST-owe\" serwisy i dlaczego warto to robić dobrze. \n Nie będzie o frameworkach i bibliotekach, więcej o tym jak tworzyć eleganckie i piękne API, tak by ich użytkownicy chętnie z nich korzystali. ",
+					"abstract":"Gdy termin RESTful web services stał się jednym z gorętszych buzzwordów ostatnich lat, zastanówmy się co to tak naprawdę oznacza, jak należy projektować naprawdę \"REST-owe\" serwisy i dlaczego warto to robić dobrze. Nie będzie o frameworkach i bibliotekach, więcej o tym jak tworzyć eleganckie i piękne API, tak by ich użytkownicy chętnie z nich korzystali. ",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -776,8 +777,8 @@
 						"rozwój"
 					],
 					"start_time":"17:10",
-					"title":"Od integracji do interakcji… czyli kompleksowe (s)tworzenie aplikacji",
-					"abstract":"Nie od dziś wiadomo, że na projekty związane ze stworzeniem i wdrożeniem aplikacji czyhają niebezpieczeństwa, które lubią wyskoczyć znienacka i położyć cały projekt  (albo go przynajmniej opóźnić). Często spotykanymi przeszkodami są: komplikacje związane z integracją oraz brak zrozumienia interakcji z aplikacją przez użytkowników. Przyczyny tego stanu rzeczy mogą być różne, aczkolwiek ja opowiem jak zaprojektować aplikację począwszy od architektury i integracji aż po UX, tak aby uniknąć komplikacji (albo chociaż zminimalizować możliwość ich wystąpienia). \n Zapraszam :)",
+					"title":"Od integracji do interakcji... czyli kompleksowe (s)tworzenie aplikacji",
+					"abstract":"Nie od dziś wiadomo, że na projekty związane ze stworzeniem i wdrożeniem aplikacji czyhają niebezpieczeństwa, które lubią wyskoczyć znienacka i położyć cały projekt  (albo go przynajmniej opóźnić). Często spotykanymi przeszkodami są: komplikacje związane z integracją oraz brak zrozumienia interakcji z aplikacją przez użytkowników. Przyczyny tego stanu rzeczy mogą być różne, aczkolwiek ja opowiem jak zaprojektować aplikację począwszy od architektury i integracji aż po UX, tak aby uniknąć komplikacji (albo chociaż zminimalizować możliwość ich wystąpienia). Zapraszam :)",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
