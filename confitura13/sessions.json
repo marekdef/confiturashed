@@ -8,11 +8,12 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"rozwój","architektura"
+						"rozwój",
+						"architektura"
 					],
 					"start_time":"09:30",
 					"title":"Architektura to nie Bzdura",
-					"abstract":"Od kilku lat prowadzę mała firmę IT. W tym czasie przewinęło się przez nią kilka projektów. Jedne większe, inne mniejsze. W okresie ostatnich dwóch lat udało się wypracować pewien pomysł na architekturę. Mimo, iż jestem w pełni świadomy faktu, że nie ma złotych środków, to jednak jestem w stanie zaryzykować stwierdzenie, że to co udało nam się stworzyć, jest na tyle uniwersalne, że sprawdza się doskonale przy średniej wielkości projektach i dość dobrze skaluje się wraz z rozwojem projektu. \n\n  Celem prezentacji jest konfrontacja naszych pomysłów z doświadczeniem widowni. Chciałbym podzielić się naszym doświadczeniem i pomysłami, ale z drugiej strony liczę również na komentarze i opinie słuchaczy. Prezentacja będzie mieć charakter mocno praktyczny. Chciałbym pokazać historię zmian w architketurze, od czego wyszliśmy, co nas drażniło, jakie zmiany wprowadzaliśmy i co było końcowym efektem. W prezentacji chciałym pokazać żywy kod wyjęty prosto z produkcji, tak aby praktyczny apekt został w pełni zachowany. \n\n  Czy w naszej architekturze odkryliśmy coś nowego, czy należy się spodziewać rewolucji? Myślę, że nie. W trakcie jak nasza architektura ewoluowała, zaznajamialiśmy się z aktualną literaturą i często dochodziło do śmiesznych sytuacji, w których na przykład wpadliśmy pewnego dnia na jakiś ciekawy pomysł, który zaczął się dobrze sprawdzać w projektach, żeby się przekonać po miesiącu, że istnieje już on w IT pod piękną nazwą CQRS. Niemniej nie chodzi mi w tej prezentacji, aby zrewolucjonizować rynek. Zależy mi na tym aby podzielić się WIEDZĄ. Przedstawić Wam zestaw pewnych narzędzi, nawyków oraz struktur, na bazie których tworzymy oprogramowanie. \n\n Chciałbym z jednej storny wyedukować osoby, które wciąż tworzą oprogramowanie w trybie prezentacja-serwis-dao-jpa, z drugiej storny chciałbym skonfrontować wiedzę z osobami o może większym doświadczeniu. Moim marzeniem byłoby, aby po wysłuchaniu prezentacji, każdy mógł wyjść z zestawem narzędzi gotowym do wypróbowania w swoich projektach, o których wcześniej nie słyszał lub słyszał, ale nie wiedział jak je zastosować.",
+					"abstract":"Od kilku lat prowadzę mała firmę IT. W tym czasie przewinęło się przez nią kilka projektów. Jedne większe, inne mniejsze. W okresie ostatnich dwóch lat udało się wypracować pewien pomysł na architekturę. Mimo, iż jestem w pełni świadomy faktu, że nie ma złotych środków, to jednak jestem w stanie zaryzykować stwierdzenie, że to co udało nam się stworzyć, jest na tyle uniwersalne, że sprawdza się doskonale przy średniej wielkości projektach i dość dobrze skaluje się wraz z rozwojem projektu. Celem prezentacji jest konfrontacja naszych pomysłów z doświadczeniem widowni. Chciałbym podzielić się naszym doświadczeniem i pomysłami, ale z drugiej strony liczę również na komentarze i opinie słuchaczy. Prezentacja będzie mieć charakter mocno praktyczny. Chciałbym pokazać historię zmian w architketurze, od czego wyszliśmy, co nas drażniło, jakie zmiany wprowadzaliśmy i co było końcowym efektem. W prezentacji chciałym pokazać żywy kod wyjęty prosto z produkcji, tak aby praktyczny apekt został w pełni zachowany. Czy w naszej architekturze odkryliśmy coś nowego, czy należy się spodziewać rewolucji? Myślę, że nie. W trakcie jak nasza architektura ewoluowała, zaznajamialiśmy się z aktualną literaturą i często dochodziło do śmiesznych sytuacji, w których na przykład wpadliśmy pewnego dnia na jakiś ciekawy pomysł, który zaczął się dobrze sprawdzać w projektach, żeby się przekonać po miesiącu, że istnieje już on w IT pod piękną nazwą CQRS. Niemniej nie chodzi mi w tej prezentacji, aby zrewolucjonizować rynek. Zależy mi na tym aby podzielić się WIEDZĄ. Przedstawić Wam zestaw pewnych narzędzi, nawyków oraz struktur, na bazie których tworzymy oprogramowanie. Chciałbym z jednej storny wyedukować osoby, które wciąż tworzą oprogramowanie w trybie prezentacja-serwis-dao-jpa, z drugiej storny chciałbym skonfrontować wiedzę z osobami o może większym doświadczeniu. Moim marzeniem byłoby, aby po wysłuchaniu prezentacji, każdy mógł wyjść z zestawem narzędzi gotowym do wypróbowania w swoich projektach, o których wcześniej nie słyszał lub słyszał, ale nie wiedział jak je zastosować.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -76,7 +77,6 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"cloud",
 						"java",
 						"jakość",
 						"testy"
@@ -124,8 +124,7 @@
 					"level":"",
 					"track":[
 						"java",
-						"cloud",
-						"architektura"
+						"narzędzia"
 					],
 					"start_time":"10:40",
 					"title":"Co piszczy w Javie?",
@@ -219,7 +218,7 @@
 					],
 					"start_time":"10:40",
 					"title":"Review your code like a Googler",
-					"abstract":"Żadna linia kodu nie trafia do repozytorium bez code reviw to jedna z zasad obowiązujących w Google. Kiedy projekt Andorid był oddawany do społeczności Google również chciało zachować tą zasadę, właśnie w tym celu powstał Gerrit. \n\n Gerrit jest to silnie zintegorwany z Gitem system code review. Po za samym serwerem Gerrita nie potrzebujesz nic więcej żeby rozpocząć swoją przygodę. Gerrit to nie tylko code review ale również w pełni funkcjonalny server Gita z rozbudowanym system ACLi oraz WebUI, więc możesz go użyć jako zwykły serwer Gita, użytkownik końcowy nie zauważy różnicy.\n Jeżeli do tej pory nie słyszałeś o Gerricie, przyjdź koniecznie niech nie ominie Ciebie rewolucja code review! \n Jeżeli natomiast wiesz czym jest Gerrit bądź też już z niego korzystasz, przyjdź i dowiedz się o nowościach w wersji 2.8, rozbudowanym systemie wtyczek i rozszerzeń oraz regułach mergeowania zmian.",
+					"abstract":"Żadna linia kodu nie trafia do repozytorium bez code reviw to jedna z zasad obowiązujących w Google. Kiedy projekt Andorid był oddawany do społeczności Google również chciało zachować tą zasadę, właśnie w tym celu powstał Gerrit.  Gerrit jest to silnie zintegorwany z Gitem system code review. Po za samym serwerem Gerrita nie potrzebujesz nic więcej żeby rozpocząć swoją przygodę. Gerrit to nie tylko code review ale również w pełni funkcjonalny server Gita z rozbudowanym system ACLi oraz WebUI, więc możesz go użyć jako zwykły serwer Gita, użytkownik końcowy nie zauważy różnicy.\n Jeżeli do tej pory nie słyszałeś o Gerricie, przyjdź koniecznie niech nie ominie Ciebie rewolucja code review! \n Jeżeli natomiast wiesz czym jest Gerrit bądź też już z niego korzystasz, przyjdź i dowiedz się o nowościach w wersji 2.8, rozbudowanym systemie wtyczek i rozszerzeń oraz regułach mergeowania zmian.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -240,7 +239,7 @@
 					],
 					"start_time":"11:50",
 					"title":"Model jest wszystkim czego potrzebujesz (w aplikacjach biznesowych) - czyli czego nauczyłem się w ciągu 6 lat stosowania i nauczania DDD",
-					"abstract":"\"Dlaczego ta zmiana kosztuje 100 mandaysów? Przecież chciałem dodać tylko jeden checkbox na ekranie?\" \n \"Ale jaki dług techniczny musimy teraz spłacić? Przecież do tej pory wszystko działało!\" \n Wszyscy zapewne dobrze znamy tego typu sentencje. \n Na domiar złego pojawiają się nowe symptomy: programiści uciekają z organizacji mamrocząc po nosem coś o \"big ball of mud\" - dziwne, przecież dostali karnet na siłownię... \n\n Podczas prezentacji przedstawię kilkanaście \"special hacks\" modelowania domen. Niektóre z nich będą oczywiste (choć zwykle nieuświadomione) a inne mniej. \n\n Niektóre mogą być dużymi zmianami a inne drobnymi szczegółami, które jednak robią różnicę. (...) Główna część zostanie poświęcona konkretnym technikom modelowania, które mogą być pomocne na poziomie procesu, na poziomie komunikacji oraz na poziomie architektury i implementacji.",
+					"abstract":"\"Dlaczego ta zmiana kosztuje 100 mandaysów? Przecież chciałem dodać tylko jeden checkbox na ekranie?\" \n \"Ale jaki dług techniczny musimy teraz spłacić? Przecież do tej pory wszystko działało!\" \n Wszyscy zapewne dobrze znamy tego typu sentencje. \n Na domiar złego pojawiają się nowe symptomy: programiści uciekają z organizacji mamrocząc po nosem coś o \"big ball of mud\" - dziwne, przecież dostali karnet na siłownię...  Podczas prezentacji przedstawię kilkanaście \"special hacks\" modelowania domen. Niektóre z nich będą oczywiste (choć zwykle nieuświadomione) a inne mniej.  Niektóre mogą być dużymi zmianami a inne drobnymi szczegółami, które jednak robią różnicę. (...) Główna część zostanie poświęcona konkretnym technikom modelowania, które mogą być pomocne na poziomie procesu, na poziomie komunikacji oraz na poziomie architektury i implementacji.",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -256,7 +255,8 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"rozwój", "zarządzanie"
+						"rozwój",
+						"zarządzanie"
 					],
 					"start_time":"11:50",
 					"title":"Czego o programowaniu może nauczyć nas Gordon Ramsay?",
@@ -320,7 +320,7 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"rozwój"
+						"java script"
 					],
 					"start_time":"11:50",
 					"title":"Czego być może nikt nie powiedział ci o JS, a co jednak powinnaś/powinieneś wiedzieć",
@@ -385,7 +385,8 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"bazy danych","java"
+						"baza danych",
+						"java"
 					],
 					"start_time":"13:40",
 					"title":"Real Time Analytics with MongoDB",
@@ -405,7 +406,8 @@
 					"end_date":"2013-07-06",
 					"level":"Level 1",
 					"track":[
-						"zarządzanie","rozwój"
+						"java",
+						"rozwój"
 					],
 					"start_time":"13:40",
 					"title":"Krótka historia czasu",
@@ -447,7 +449,6 @@
 					"level":"Advanced",
 					"track":[
 						"java",
-						"język jvm",
 						"java script",
 						"testy"
 					],
@@ -455,7 +456,7 @@
 					"prereq":[
 						"podstawy JS"
 					],
-					"abstract":"AngularJS to relatywnie nowy Framework MVC dla języka JavaScript. Co w nim takiego rewolucyjnego? Przede wszystkim przyjemność i prostota pisania w nim. Ale AngularJS to dopiero połowa obrazu, dopełnia go Jasmine - JavaScriptowa biblioteka do BDD, razem tworzą wspaniałą całość. Dzięki nim programowanie w JavaScriptcie to czysta przyjemność (to wcal nie jest oksymoron). ",
+					"abstract":"AngularJS to relatywnie nowy Framework MVC dla języka JavaScript. Co w nim takiego rewolucyjnego? Przede wszystkim przyjemność i prostota pisania w nim. Ale AngularJS to dopiero połowa obrazu, dopełnia go Jasmine - JavaScriptowa biblioteka do BDD, razem tworzą wspaniałą całość. Dzięki nim programowanie w JavaScriptcie to czysta przyjemność (to wcale nie jest oksymoron).",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -493,14 +494,12 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"testy",
-						"java",
-						"jakość",
-						"język jvm"
+						"rozwój",
+						"zarządzanie"
 					],
 					"start_time":"14:50",
 					"title":"Face to face z pracą zdalną - panel dyskusyjny",
-					"abstract":"Zapraszamy na panel dyskusyjny o pracy zdalnej. Podzielimy się własnymi doświadczeniami i postaramy się odpowiedzieć na nurtujące Was pytania - od tych jak to jest pracować z domu, co jest ważne na początku, po wątpliwości czy da się w ten sposób zorganizować pracę zespołową. \n\n Jeśli nie pracowałeś/aś nigdy zdalnie - mamy nadzieję, że pomożemy Ci odpowiedzieć na pytanie czy warto spróbować. Jeśli jesteś weteranem lub weteranką kodowania z domowego gabinetu - przyjdź też - i opowiedz o swoich doświadczeniach. ",
+					"abstract":"Zapraszamy na panel dyskusyjny o pracy zdalnej. Podzielimy się własnymi doświadczeniami i postaramy się odpowiedzieć na nurtujące Was pytania - od tych jak to jest pracować z domu, co jest ważne na początku, po wątpliwości czy da się w ten sposób zorganizować pracę zespołową.  Jeśli nie pracowałeś/aś nigdy zdalnie - mamy nadzieję, że pomożemy Ci odpowiedzieć na pytanie czy warto spróbować. Jeśli jesteś weteranem lub weteranką kodowania z domowego gabinetu - przyjdź też - i opowiedz o swoich doświadczeniach. ",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -516,12 +515,12 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"jakość",
-						"zarządzanie"
+						"zarządzanie",
+						"rozwój"
 					],
 					"start_time":"14:50",
 					"title":"Co tam panie w polityce? Hindusi trzymają się mocno?",
-					"abstract":"Indie stają się superpotęgą IT. Sam ten kraj dostrzega gdzie leży spore źródło jego dochodu i wspomaga ten proces, który toczyć się zaczął jeszcze w zeszłym stuleciu, a rozpędu nabierał już 10 lat temu: \n\n \"India's IT software and services exports alone are estimated to cross an ambitious US$ 50 billion by 2008 (the NASSCOM-McKinsey 2003 Report).\" \n\n Obecne prognozy są jeszcze wyższe i sam rząd Indii bardzo pilnuje, by je spełnić. Czyli szanse na to, że będziesz współpracował z Hindusami rosną. \n Celem tej prezentacji jest przygotowanie Cię na to, co to znaczy, jak i przekazanie kilku sprawdzonych metod współpracy. ",
+					"abstract":"Indie stają się superpotęgą IT. Sam ten kraj dostrzega gdzie leży spore źródło jego dochodu i wspomaga ten proces, który toczyć się zaczął jeszcze w zeszłym stuleciu, a rozpędu nabierał już 10 lat temu:  \"India's IT software and services exports alone are estimated to cross an ambitious US$ 50 billion by 2008 (the NASSCOM-McKinsey 2003 Report).\"  Obecne prognozy są jeszcze wyższe i sam rząd Indii bardzo pilnuje, by je spełnić. Czyli szanse na to, że będziesz współpracował z Hindusami rosną. \n Celem tej prezentacji jest przygotowanie Cię na to, co to znaczy, jak i przekazanie kilku sprawdzonych metod współpracy. ",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -608,7 +607,7 @@
 						"testy",
 						"java",
 						"jakość",
-						"język jvm"
+						"języki jvm"
 					],
 					"start_time":"16:00",
 					"title":"Testowanie mutacyjne, czyli jak dobre w rzeczywistości są Twoje testy?",
@@ -657,7 +656,7 @@
 						"testy",
 						"java",
 						"jakość",
-						"język jvm"
+						"języki jvm"
 					],
 					"start_time":"16:00",
 					"title":"Test Driven Traps",
@@ -677,8 +676,6 @@
 					"end_date":"2013-07-06",
 					"level":"Advanced",
 					"track":[
-						"java",
-						"cloud",
 						"architektura"
 					],
 					"start_time":"17:10",
@@ -704,12 +701,11 @@
 					"level":"Intermediate",
 					"track":[
 						"java",
-						"cloud",
 						"architektura"
 					],
 					"start_time":"17:10",
 					"title":"Nie ma jednej słusznej drogi - różne podejścia do architektury systemów",
-					"abstract":"Ostatnio usłyszałem wypowiedź, która brzmiała mniej więcej tak: \"(...) współczesne autorytety inżynierii oprogramowania: x, y, z używają podejścia do architektury o nazwie A i to jest dobre, tak trzeba robić, to się sprawdza\". Jedynym celem tej prezentacji jest uświadomienie Ci, że to kompletna bzdura. Nie ma jednej słusznej drogi! \n\n Podczas prezentacji przedstawię przykłady systemów, których architektury z punktu widzenia jedynej słuszenej drogi A, są kompletnymi herezjami, ale...się sprawdzają. I to sprawdzają się bardzo dobrze: mają założoną wydajność, są bardzo dobrze przygotowane na rozbudowę, tanie w utrzymaniu itd. \n\n Acha, i jeszcze w między czasie chciałbym przekazać, że jeśli chesz odpowiedzialnie pełnić rolę architekta, to w przynajmniej na elementarnym poziomie powinieneś posiąść jedną drobną umiejętność: zarządzanie finansami. Zapraszam!",
+					"abstract":"Ostatnio usłyszałem wypowiedź, która brzmiała mniej więcej tak: \"(...) współczesne autorytety inżynierii oprogramowania: x, y, z używają podejścia do architektury o nazwie A i to jest dobre, tak trzeba robić, to się sprawdza\". Jedynym celem tej prezentacji jest uświadomienie Ci, że to kompletna bzdura. Nie ma jednej słusznej drogi!  Podczas prezentacji przedstawię przykłady systemów, których architektury z punktu widzenia jedynej słuszenej drogi A, są kompletnymi herezjami, ale...się sprawdzają. I to sprawdzają się bardzo dobrze: mają założoną wydajność, są bardzo dobrze przygotowane na rozbudowę, tanie w utrzymaniu itd.  Acha, i jeszcze w między czasie chciałbym przekazać, że jeśli chesz odpowiedzialnie pełnić rolę architekta, to w przynajmniej na elementarnym poziomie powinieneś posiąść jedną drobną umiejętność: zarządzanie finansami. Zapraszam!",
 					"start_date":"2013-07-06",
 					"attending":"N",
 					"has_streaming":false,
@@ -728,8 +724,8 @@
 					"track":[
 						"java",
 						"cloud",
-						"zarządzanie",
-						"architektura"
+						"architektura",
+						"narzędzia"
 					],
 					"start_time":"17:10",
 					"title":"Zwinne releasy w samym sercu wielkiej korporacji",
@@ -751,6 +747,7 @@
 					"level":"",
 					"track":[
 						"java",
+						"języki jvm",
 						"cloud",
 						"bigdata"
 					],
@@ -775,7 +772,8 @@
 					"end_date":"2013-07-06",
 					"level":"",
 					"track":[
-						"zarządzanie", "rozwój"
+						"zarządzanie",
+						"rozwój"
 					],
 					"start_time":"17:10",
 					"title":"Od integracji do interakcji… czyli kompleksowe (s)tworzenie aplikacji",

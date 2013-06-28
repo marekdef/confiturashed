@@ -6,7 +6,7 @@
      "abstract": "Oprogramowanie w chmurze"
    },
    {
-     "name": "język jvm",
+     "name": "języki jvm",
      "color": "#2076BC",
      "abstract": "Scala Clojure Groovy"
    },
@@ -17,12 +17,12 @@
    },
    {
      "name": "zarządzanie",
-     "color": "#00773F",
+     "color": "#101ed4",
      "abstract": "Zarządzanie projektami IT"
    },
    {
      "name": "java",
-     "color": "#F5851F",
+     "color": "#e76f00",
      "abstract": "Co nowego w Javie i o Javie "
    },
    {
@@ -47,23 +47,28 @@
    },
    {
      "name": "rozwój",
-     "color": "#F04EF0",
-     "abstract": "Rozwój kompetencji"
+     "color": "#ff0400",
+     "abstract": "Rozwój kompetencji osobistych i zespołów"
    },
    {
      "name": "baza danych",
-     "color": "#F04EF0",
+     "color": "#b0b0b2",
      "abstract": "O (bazach) danych w aplikacjach"
    },
    {
      "name": "narzędzia",
-     "color": "#F04EF0",
+     "color": "#000000",
      "abstract": "Narzedzia, które wspomagają development"
    },
    {
      "name": "jee",
      "color": "#F04EF0",
      "abstract": "Java Enterprise"
+   },
+   {
+     "name": "agile",
+     "color": "#fffa00",
+     "abstract": "Jak być jeszcze bardziej agile"
    }
 
  ]
